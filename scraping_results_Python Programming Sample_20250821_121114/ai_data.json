@@ -1,0 +1,79 @@
+{
+  "query": "Python Programming Sample",
+  "scraped_at": "2025-08-21T12:11:14.447474",
+  "total_sites": 5,
+  "successful_sites": 4,
+  "results": [
+    {
+      "url": "https://www.python.org/",
+      "content_preview": "# Welcome to Python.org\n\n**説明**: The official home of the Python Programming Language\n\n**Notice:** While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience. \n\nSkip to content\n\n▼ Close \n\n  * [Python](/ \"The Python Programming Language\")\n  * [PSF](https://www.python.org/psf/ \"The Python Software Foundation\")\n  * [Docs](https://docs.python.org \"Python Documentation\")\n  * [PyPI](https://pypi.org/ \"Python Package Index\")\n  * [Jobs](/jobs/ \"Python Job Board\")\n  * [Community](/community/)\n\n▲ The Python Network \n\n#  [![python™](/static/img/python-logo.png)](/)\n\n[Donate](https://psfmember.org/civicrm/contribute/transact?reset=1&id=2)\n\n≡ Menu Search This Site GO \n\n  * **A A**\n    * [Smaller](javascript:; \"Make Text Smaller\")\n    * [Larger](javascript:; \"Make Text Larger\")\n    * [Reset](javascript:; \"Reset any font size changes I have made\")\n\n\n\n  * Socialize\n    * [__LinkedIn](https://www.linkedin.com/",
+      "full_content_length": 14557,
+      "image_urls": [
+        "https://www.python.org/static/img/python-logo.png",
+        "https://www.python.org/static/opengraph-icon-200x200.png"
+      ],
+      "total_images": 2,
+      "scraped_at": "2025-08-21T12:11:14.444139"
+    },
+    {
+      "url": "https://docs.python.org/3/tutorial/",
+      "content_preview": "# The Python Tutorial — Python 3.13.7 documentation\n\n**説明**: Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax an...\n\n[ ![Python logo](../_static/py.svg) ](https://www.python.org/)\n\nTheme  Auto Light Dark\n\n#### Previous topic\n\n[Changelog](../whatsnew/changelog.html \"previous chapter\")\n\n#### Next topic\n\n[1\\. Whetting Your Appetite](appetite.html \"next chapter\")\n\n### This page\n\n  * [Report a bug](../bugs.html)\n  * [Show source ](https://github.com/python/cpython/blob/main/Doc/tutorial/index.rst?plain=1)\n\n\n\n### Navigation\n\n  * [index](../genindex.html \"General Index\")\n  * [modules](../py-modindex.html \"Python Module Index\") |\n  * [next](appetite.html \"1. Whetting Your Appetite\") |\n  * [previous](../whatsnew/changelog.html \"Changelog\") |\n  * ![Python logo](../_static/py.svg)\n  * [Python](https://www.python.org/) »\n  *   *   * [3.13.7 Documentation",
+      "full_content_length": 14828,
+      "image_urls": [
+        "https://docs.python.org/3/_static/py.svg",
+        "https://docs.python.org/3/_static/py.svg",
+        "https://docs.python.org/3/_static/py.svg",
+        "https://docs.python.org/3.13/_images/social_previews/summary_tutorial_index_4224eef5.png"
+      ],
+      "total_images": 4,
+      "scraped_at": "2025-08-21T12:11:14.444163"
+    },
+    {
+      "url": "https://www.w3schools.com/python/",
+      "content_preview": "# Python Tutorial\n\n[ __](https://www.w3schools.com \"Home\") [ Tutorials ____](javascript:void\\(0\\) \"Tutorials and References\") [ Exercises ____](javascript:void\\(0\\) \"Exercises and Quizzes\") [ Certificates ____](javascript:void\\(0\\) \"Certificates\") [ Services ____](javascript:void\\(0\\) \"Our Services\") [ Menu ____](javascript:void\\(0\\) \"Menu\")\n\nSearch field \n\n_×_\n\n[ __ ](javascript:void\\(0\\); \"Toggle light/dark mode\")\n\nSign In\n\n[ ★ +1 ](https://profile.w3schools.com/log-in \"Your W3Schools Profile\") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog \"W3Schools Certificates\") [ Upgrade ](https://order.w3schools.com/plans \"Become a PLUS user and unlock powerful features\") [ For Teachers ](/academy/index.php \"Contact us about W3Schools Academy for educational institutions\") [ Spaces ](/spaces/index.php \"Get Your Own Website With W3Schools Spaces\") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog \"W3Schools Certificates\") [ Upgrade ](https://or",
+      "full_content_length": 63544,
+      "image_urls": [
+        "https://www.w3schools.com/images/colorpicker2000.png",
+        "https://www.w3schools.com/signup/lynxlogo.svg",
+        "https://www.w3schools.com/spaces/files/check3.db67d31e.svg",
+        "https://www.w3schools.com/spaces/files/check3.db67d31e.svg",
+        "https://www.w3schools.com/spaces/files/check3.db67d31e.svg",
+        "https://www.w3schools.com/spaces/files/check3.db67d31e.svg",
+        "https://www.w3schools.com/images/img_fa_up_300.png",
+        "https://www.w3schools.com/images/colorpicker2000.png",
+        "https://www.w3schools.com/images/w3schools_logo_436_2.png"
+      ],
+      "total_images": 9,
+      "scraped_at": "2025-08-21T12:11:14.444197"
+    },
+    {
+      "url": "https://github.com/python/cpython",
+      "content_preview": "# GitHub - python/cpython: The Python programming language\n\n**説明**: The Python programming language. Contribute to python/cpython development by creating an account on GitHub.\n\n[ python ](/python) / **[cpython](/python/cpython) ** Public\n\n  * ###  Uh oh! \n\nThere was an error while loading. [Please reload this page]().\n\n  * [ Notifications ](/login?return_to=%2Fpython%2Fcpython) You must be signed in to change notification settings\n  * [ Fork 32.6k ](/login?return_to=%2Fpython%2Fcpython)\n  * [ Star  68.5k ](/login?return_to=%2Fpython%2Fcpython)\n\n\n\n\nThe Python programming language \n\n[www.python.org](https://www.python.org \"https://www.python.org\")\n\n### License\n\n[ View license ](/python/cpython/blob/main/LICENSE)\n\n[ 68.5k stars ](/python/cpython/stargazers) [ 32.6k forks ](/python/cpython/forks) [ Branches ](/python/cpython/branches) [ Tags ](/python/cpython/tags) [ Activity ](/python/cpython/activity)\n\n[ Star  ](/login?return_to=%2Fpython%2Fcpython)\n\n[ Notifications ](/login?return_to=%2",
+      "full_content_length": 20432,
+      "image_urls": [
+        "https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push",
+        "https://camo.githubusercontent.com/83187fc220f76c855b707e7f057eeaa6ff0f4fb3f1d8be046341257e9eee162b/68747470733a2f2f6465762e617a7572652e636f6d2f707974686f6e2f63707974686f6e2f5f617069732f6275696c642f7374617475732f417a757265253230506970656c696e657325323043493f6272616e63684e616d653d6d61696e",
+        "https://camo.githubusercontent.com/5a3a3ba68cd6219d0e838da60b71c30a039491c1c446782bdefb2121cb31f1be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f757273652d6a6f696e5f636861742d627269676874677265656e2e737667",
+        "https://avatars.githubusercontent.com/u/147847290?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/103345472?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/546703?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/56277115?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/97280134?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/125163533?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/40918666?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/99744927?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/2894642?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/194129?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/219470?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/144359?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/588792?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/3659035?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/1623689?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/1721820?s=64&v=4",
+        "https://avatars.githubusercontent.com/u/4665100?s=64&v=4"
+      ],
+      "total_images": 26,
+      "scraped_at": "2025-08-21T12:11:14.444204"
+    }
+  ]
+}

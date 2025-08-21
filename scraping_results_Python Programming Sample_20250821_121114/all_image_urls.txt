@@ -1,0 +1,67 @@
+🖼️ 画像URL一覧
+検索キーワード: Python Programming Sample
+================================================================================
+
+
+サイト 1: https://www.python.org/
+画像数: 2
+----------------------------------------
+1. https://www.python.org/static/img/python-logo.png
+2. https://www.python.org/static/opengraph-icon-200x200.png
+
+
+サイト 2: https://docs.python.org/3/tutorial/
+画像数: 4
+----------------------------------------
+1. https://docs.python.org/3/_static/py.svg
+2. https://docs.python.org/3/_static/py.svg
+3. https://docs.python.org/3/_static/py.svg
+4. https://docs.python.org/3.13/_images/social_previews/summary_tutorial_index_4224eef5.png
+
+
+サイト 4: https://www.w3schools.com/python/
+画像数: 9
+----------------------------------------
+1. https://www.w3schools.com/images/colorpicker2000.png
+2. https://www.w3schools.com/signup/lynxlogo.svg
+3. https://www.w3schools.com/spaces/files/check3.db67d31e.svg
+4. https://www.w3schools.com/spaces/files/check3.db67d31e.svg
+5. https://www.w3schools.com/spaces/files/check3.db67d31e.svg
+6. https://www.w3schools.com/spaces/files/check3.db67d31e.svg
+7. https://www.w3schools.com/images/img_fa_up_300.png
+8. https://www.w3schools.com/images/colorpicker2000.png
+9. https://www.w3schools.com/images/w3schools_logo_436_2.png
+
+
+サイト 5: https://github.com/python/cpython
+画像数: 26
+----------------------------------------
+1. https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
+2. https://camo.githubusercontent.com/83187fc220f76c855b707e7f057eeaa6ff0f4fb3f1d8be046341257e9eee162b/68747470733a2f2f6465762e617a7572652e636f6d2f707974686f6e2f63707974686f6e2f5f617069732f6275696c642f7374617475732f417a757265253230506970656c696e657325323043493f6272616e63684e616d653d6d61696e
+3. https://camo.githubusercontent.com/5a3a3ba68cd6219d0e838da60b71c30a039491c1c446782bdefb2121cb31f1be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f757273652d6a6f696e5f636861742d627269676874677265656e2e737667
+4. https://avatars.githubusercontent.com/u/147847290?s=64&v=4
+5. https://avatars.githubusercontent.com/u/103345472?s=64&v=4
+6. https://avatars.githubusercontent.com/u/546703?s=64&v=4
+7. https://avatars.githubusercontent.com/u/56277115?s=64&v=4
+8. https://avatars.githubusercontent.com/u/97280134?s=64&v=4
+9. https://avatars.githubusercontent.com/u/125163533?s=64&v=4
+10. https://avatars.githubusercontent.com/u/40918666?s=64&v=4
+11. https://avatars.githubusercontent.com/u/99744927?s=64&v=4
+12. https://avatars.githubusercontent.com/u/2894642?s=64&v=4
+13. https://avatars.githubusercontent.com/u/194129?s=64&v=4
+14. https://avatars.githubusercontent.com/u/219470?s=64&v=4
+15. https://avatars.githubusercontent.com/u/144359?s=64&v=4
+16. https://avatars.githubusercontent.com/u/588792?s=64&v=4
+17. https://avatars.githubusercontent.com/u/3659035?s=64&v=4
+18. https://avatars.githubusercontent.com/u/1623689?s=64&v=4
+19. https://avatars.githubusercontent.com/u/1721820?s=64&v=4
+20. https://avatars.githubusercontent.com/u/4665100?s=64&v=4
+21. https://avatars.githubusercontent.com/u/74179?s=64&v=4
+22. https://avatars.githubusercontent.com/u/14852019?s=64&v=4
+23. https://avatars.githubusercontent.com/u/54418?s=64&v=4
+24. https://avatars.githubusercontent.com/u/204654?s=64&v=4
+25. https://avatars.githubusercontent.com/u/210184?s=64&v=4
+26. https://opengraph.githubassets.com/843f03862113f709809ec9806f066d1c7d7d6210c842a35dbeb18b457da7efb7/python/cpython
+
+
+総画像数: 41

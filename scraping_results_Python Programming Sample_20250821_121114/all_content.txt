@@ -1,0 +1,1677 @@
+🚀 スクレイピング結果
+検索キーワード: Python Programming Sample
+実行日時: 2025-08-21 12:11:14
+取得サイト数: 5
+================================================================================
+
+成功: 4件 / 失敗: 1件
+================================================================================
+
+
+================================================================================
+サイト 1: https://www.python.org/
+取得日時: 2025-08-21T12:11:14.444139
+画像数: 2
+--------------------------------------------------------------------------------
+
+# Welcome to Python.org
+
+**説明**: The official home of the Python Programming Language
+
+**Notice:** While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience. 
+
+Skip to content
+
+▼ Close 
+
+  * [Python](/ "The Python Programming Language")
+  * [PSF](https://www.python.org/psf/ "The Python Software Foundation")
+  * [Docs](https://docs.python.org "Python Documentation")
+  * [PyPI](https://pypi.org/ "Python Package Index")
+  * [Jobs](/jobs/ "Python Job Board")
+  * [Community](/community/)
+
+▲ The Python Network 
+
+#  [![python™](/static/img/python-logo.png)](/)
+
+[Donate](https://psfmember.org/civicrm/contribute/transact?reset=1&id=2)
+
+≡ Menu Search This Site GO 
+
+  * **A A**
+    * [Smaller](javascript:; "Make Text Smaller")
+    * [Larger](javascript:; "Make Text Larger")
+    * [Reset](javascript:; "Reset any font size changes I have made")
+
+
+
+  * Socialize
+    * [__LinkedIn](https://www.linkedin.com/company/python-software-foundation/)
+    * [Mastodon](https://fosstodon.org/@ThePSF)
+    * [Chat on IRC](/community/irc/)
+    * [Twitter](https://twitter.com/ThePSF)
+
+
+
+  * [About](/about/)
+    * [Applications](/about/apps/)
+    * [Quotes](/about/quotes/)
+    * [Getting Started](/about/gettingstarted/)
+    * [Help](/about/help/)
+    * [Python Brochure](http://brochure.getpython.info/)
+  * [Downloads](/downloads/)
+    * [All releases](/downloads/)
+    * [Source code](/downloads/source/)
+    * [Windows](/downloads/windows/)
+    * [macOS](/downloads/macos/)
+    * [Android](/downloads/android/)
+    * [Other Platforms](/download/other/)
+    * [License](https://docs.python.org/3/license.html)
+    * [Alternative Implementations](/download/alternatives)
+  * [Documentation](/doc/)
+    * [Docs](/doc/)
+    * [Audio/Visual Talks](/doc/av)
+    * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+    * [Developer's Guide](https://devguide.python.org/)
+    * [FAQ](https://docs.python.org/faq/)
+    * [Non-English Docs](http://wiki.python.org/moin/Languages)
+    * [PEP Index](https://peps.python.org)
+    * [Python Books](https://wiki.python.org/moin/PythonBooks)
+    * [Python Essays](/doc/essays/)
+  * [Community](/community/)
+    * [Diversity](/community/diversity/)
+    * [Mailing Lists](/community/lists/)
+    * [IRC](/community/irc/)
+    * [Forums](/community/forums/)
+    * [PSF Annual Impact Report](/psf/annual-report/2024/)
+    * [Python Conferences](/community/workshops/)
+    * [Special Interest Groups](/community/sigs/)
+    * [Python Logo](/community/logos/)
+    * [Python Wiki](https://wiki.python.org/moin/)
+    * [Code of Conduct](/psf/conduct/)
+    * [Community Awards](/community/awards)
+    * [Get Involved](/psf/get-involved/)
+    * [Shared Stories](/psf/community-stories/)
+  * [Success Stories](/success-stories/ "success-stories")
+    * [Arts](/success-stories/category/arts/)
+    * [Business](/success-stories/category/business/)
+    * [Education](/success-stories/category/education/)
+    * [Engineering](/success-stories/category/engineering/)
+    * [Government](/success-stories/category/government/)
+    * [Scientific](/success-stories/category/scientific/)
+    * [Software Development](/success-stories/category/software-development/)
+  * [News](/blogs/ "News from around the Python world")
+    * [Python News](/blogs/ "Python Insider Blog Posts")
+    * [PSF Newsletter](/psf/newsletter/ "Python Software Foundation Newsletter")
+    * [PSF News](http://pyfound.blogspot.com/ "PSF Blog")
+    * [PyCon US News](http://pycon.blogspot.com/ "PyCon Blog")
+    * [News from the Community](http://planetpython.org/ "Planet Python")
+  * [Events](/events/)
+    * [Python Events](/events/python-events/)
+    * [User Group Events](/events/python-user-group/)
+    * [Python Events Archive](/events/python-events/past/)
+    * [User Group Events Archive](/events/python-user-group/past/)
+    * [Submit an Event](https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event)
+
+
+
+  * [>_ Launch Interactive Shell ](/shell/)
+
+
+  * # Python 3: Fibonacci series up to n
+        >>> def fib(n):
+        >>>     a, b = 0, 1
+        >>>     while a < n:
+        >>>         print(a, end=' ')
+        >>>         a, b = b, a+b
+        >>>     print()
+        >>> fib(1000)
+        0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+
+# Functions Defined
+
+The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists. [More about defining functions in Python 3](//docs.python.org/3/tutorial/controlflow.html#defining-functions)
+
+  * # Python 3: List comprehensions
+        >>> fruits = ['Banana', 'Apple', 'Lime']
+        >>> loud_fruits = [fruit.upper() for fruit in fruits]
+        >>> print(loud_fruits)
+        ['BANANA', 'APPLE', 'LIME']
+        
+        # List and the enumerate function
+        >>> list(enumerate(fruits))
+        [(0, 'Banana'), (1, 'Apple'), (2, 'Lime')]
+
+# Compound Data Types
+
+Lists (known as arrays in other languages) are one of the compound data types that Python understands. Lists can be indexed, sliced and manipulated with other built-in functions. [More about lists in Python 3](//docs.python.org/3/tutorial/introduction.html#lists)
+
+  * # Python 3: Simple arithmetic
+        >>> 1 / 2
+        0.5
+        >>> 2 ** 3
+        8
+        >>> 17 / 3  # classic division returns a float
+        5.666666666666667
+        >>> 17 // 3  # floor division
+        5
+
+# Intuitive Interpretation
+
+Calculations are simple with Python, and expression syntax is straightforward: the operators `+`, `-`, `*` and `/` work as expected; parentheses `()` can be used for grouping. [More about simple math functions in Python 3](http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator).
+
+  * # For loop on a list
+        >>> numbers = [2, 4, 6, 8]
+        >>> product = 1
+        >>> for number in numbers:
+        ...    product = product * number
+        ... 
+        >>> print('The product is:', product)
+        The product is: 384
+
+# All the Flow You’d Expect
+
+Python knows the usual control flow statements that other languages speak — `if`, `for`, `while` and `range` — with some of its own twists, of course. [More control flow tools in Python 3](//docs.python.org/3/tutorial/controlflow.html)
+
+  * # Simple output (with Unicode)
+        >>> print("Hello, I'm Python!")
+        Hello, I'm Python!
+        # Input, assignment
+        >>> name = input('What is your name?\n')
+        What is your name?
+        Python
+        >>> print(f'Hi, {name}.')
+        Hi, Python.
+        
+
+# Quick & Easy to Learn
+
+Experienced programmers in any other language can pick up Python very quickly, and beginners find the clean syntax and indentation structure easy to learn. [Whet your appetite](//docs.python.org/3/tutorial/) with our Python 3 overview.
+
+
+
+
+Python is a programming language that lets you work quickly and integrate systems more effectively. [Learn More](/doc/)
+
+## Get Started
+
+Whether you're new to programming or an experienced developer, it's easy to learn and use Python.
+
+[Start with our Beginner’s Guide](/about/gettingstarted/)
+
+## Download
+
+Python source code and installers are available for download for all versions!
+
+Latest: [Python 3.13.7](/downloads/release/python-3137/)
+
+## Docs
+
+Documentation for Python's standard library, along with tutorials and guides, are available online.
+
+[docs.python.org](https://docs.python.org)
+
+## Jobs
+
+Looking for work or have a Python related position that you're trying to hire for? Our **relaunched community-run job board** is the place to go.
+
+[jobs.python.org](//jobs.python.org)
+
+## Latest News
+
+[More](https://blog.python.org "More News")
+
+  * 2025-08-18 [The 2024 Python Developer Survey Results are here!](https://pyfound.blogspot.com/2025/08/the-2024-python-developer-survey.html)
+  * 2025-08-14 [Python 3.14.0rc2 and 3.13.7 are go!](https://pythoninsider.blogspot.com/2025/08/python-3140rc2-and-3137-are-go.html)
+  * 2025-08-14 [Announcing the PSF Board Candidates for 2025!](https://pyfound.blogspot.com/2025/08/announcing-psf-board-candidates-for-2025.html)
+  * 2025-08-08 [Announcing Python Software Foundation Fellow Members for Q2 2025! 🎉](https://pyfound.blogspot.com/2025/08/announcing-python-software-foundation.html)
+  * 2025-08-07 [Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem Neutral Metadata](https://pyfound.blogspot.com/2025/08/unmasking-phantom-dependencies-with.html)
+
+
+
+## Upcoming Events
+
+[More](/events/calendars/ "More Events")
+
+  * 2025-08-23 [StatusCode 2 Hackathon](/events/python-events/2071/)
+  * 2025-08-23 [PyCon Togo 2025](/events/python-events/2009/)
+  * 2025-08-26 [PyLadies Amsterdam: Data science that ships: production-ready pipelines with Kedro](/events/python-user-group/2091/)
+  * 2025-08-28 [PyCon Kenya 2025](/events/python-events/2027/)
+  * 2025-08-28 [PyCon Poland 2025](/events/python-events/2020/)
+
+
+
+## Success Stories
+
+[More](/success-stories/ "More Success Stories")
+
+> [“We feel much better equipped now to handle the challenges. And if we run into an issue, we’ll come to Caktus to hammer it out," said Stephen Johnston, VP of Engineering, at Force Therapeutics.](/success-stories/a-startup-healthcare-tech-firm-is-now-poised-for-the-future/)
+
+[A Startup Healthcare Tech Firm Is Now Poised for the Future](/success-stories/a-startup-healthcare-tech-firm-is-now-poised-for-the-future/) _by Caktus Group_  
+---  
+  
+## Use Python for…
+
+[More](/about/apps "More Applications")
+
+  * **Web Development** : [Django](http://www.djangoproject.com/), [Pyramid](http://www.pylonsproject.org/), [Bottle](http://bottlepy.org), [Tornado](http://tornadoweb.org), [Flask](http://flask.pocoo.org/), [web2py](http://www.web2py.com/)
+  * **GUI Development** : [tkInter](http://wiki.python.org/moin/TkInter), [PyGObject](https://wiki.gnome.org/Projects/PyGObject), [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro), [PySide](https://wiki.qt.io/PySide), [Kivy](https://kivy.org/), [wxPython](http://www.wxpython.org/), [DearPyGui](https://dearpygui.readthedocs.io/en/latest/)
+  * **Scientific and Numeric** :  [SciPy](http://www.scipy.org), [Pandas](http://pandas.pydata.org/), [IPython](http://ipython.org)
+  * **Software Development** : [Buildbot](http://buildbot.net/), [Trac](http://trac.edgewall.org/), [Roundup](http://roundup.sourceforge.net/)
+  * **System Administration** : [Ansible](http://www.ansible.com), [Salt](https://saltproject.io), [OpenStack](https://www.openstack.org), [xonsh](https://xon.sh)
+
+
+
+##  >>> [Python Software Foundation](/psf/)
+
+The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers. [Learn more](/psf/)
+
+[Become a Member](/psf/membership/) [Donate to the PSF](/psf/donations/)
+
+▲ Back to Top
+
+  * [About](/about/)
+    * [Applications](/about/apps/)
+    * [Quotes](/about/quotes/)
+    * [Getting Started](/about/gettingstarted/)
+    * [Help](/about/help/)
+    * [Python Brochure](http://brochure.getpython.info/)
+  * [Downloads](/downloads/)
+    * [All releases](/downloads/)
+    * [Source code](/downloads/source/)
+    * [Windows](/downloads/windows/)
+    * [macOS](/downloads/macos/)
+    * [Android](/downloads/android/)
+    * [Other Platforms](/download/other/)
+    * [License](https://docs.python.org/3/license.html)
+    * [Alternative Implementations](/download/alternatives)
+  * [Documentation](/doc/)
+    * [Docs](/doc/)
+    * [Audio/Visual Talks](/doc/av)
+    * [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+    * [Developer's Guide](https://devguide.python.org/)
+    * [FAQ](https://docs.python.org/faq/)
+    * [Non-English Docs](http://wiki.python.org/moin/Languages)
+    * [PEP Index](https://peps.python.org)
+    * [Python Books](https://wiki.python.org/moin/PythonBooks)
+    * [Python Essays](/doc/essays/)
+  * [Community](/community/)
+    * [Diversity](/community/diversity/)
+    * [Mailing Lists](/community/lists/)
+    * [IRC](/community/irc/)
+    * [Forums](/community/forums/)
+    * [PSF Annual Impact Report](/psf/annual-report/2024/)
+    * [Python Conferences](/community/workshops/)
+    * [Special Interest Groups](/community/sigs/)
+    * [Python Logo](/community/logos/)
+    * [Python Wiki](https://wiki.python.org/moin/)
+    * [Code of Conduct](/psf/conduct/)
+    * [Community Awards](/community/awards)
+    * [Get Involved](/psf/get-involved/)
+    * [Shared Stories](/psf/community-stories/)
+  * [Success Stories](/success-stories/ "success-stories")
+    * [Arts](/success-stories/category/arts/)
+    * [Business](/success-stories/category/business/)
+    * [Education](/success-stories/category/education/)
+    * [Engineering](/success-stories/category/engineering/)
+    * [Government](/success-stories/category/government/)
+    * [Scientific](/success-stories/category/scientific/)
+    * [Software Development](/success-stories/category/software-development/)
+  * [News](/blogs/ "News from around the Python world")
+    * [Python News](/blogs/ "Python Insider Blog Posts")
+    * [PSF Newsletter](/psf/newsletter/ "Python Software Foundation Newsletter")
+    * [PSF News](http://pyfound.blogspot.com/ "PSF Blog")
+    * [PyCon US News](http://pycon.blogspot.com/ "PyCon Blog")
+    * [News from the Community](http://planetpython.org/ "Planet Python")
+  * [Events](/events/)
+    * [Python Events](/events/python-events/)
+    * [User Group Events](/events/python-user-group/)
+    * [Python Events Archive](/events/python-events/past/)
+    * [User Group Events Archive](/events/python-user-group/past/)
+    * [Submit an Event](https://wiki.python.org/moin/PythonEventsCalendar#Submitting_an_Event)
+  * [Contributing](/dev/)
+    * [Developer's Guide](https://devguide.python.org/)
+    * [Issue Tracker](https://github.com/python/cpython/issues)
+    * [python-dev list](https://mail.python.org/mailman/listinfo/python-dev)
+    * [Core Mentorship](/dev/core-mentorship/)
+    * [Report a Security Issue](/dev/security/)
+
+▲ Back to Top
+
+  * [Help & General Contact](/about/help/)
+  * [Diversity Initiatives](/community/diversity/)
+  * [Submit Website Bug](https://github.com/python/pythondotorg/issues)
+  * [Status ](https://status.python.org/)
+
+
+
+Copyright ©2001-2025. [Python Software Foundation](/psf-landing/) [Legal Statements](/about/legal/) [Privacy Notice](https://policies.python.org/python.org/Privacy-Notice/)
+
+
+
+================================================================================
+サイト 2: https://docs.python.org/3/tutorial/
+取得日時: 2025-08-21T12:11:14.444163
+画像数: 4
+--------------------------------------------------------------------------------
+
+# The Python Tutorial — Python 3.13.7 documentation
+
+**説明**: Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax an...
+
+[ ![Python logo](../_static/py.svg) ](https://www.python.org/)
+
+Theme  Auto Light Dark
+
+#### Previous topic
+
+[Changelog](../whatsnew/changelog.html "previous chapter")
+
+#### Next topic
+
+[1\. Whetting Your Appetite](appetite.html "next chapter")
+
+### This page
+
+  * [Report a bug](../bugs.html)
+  * [Show source ](https://github.com/python/cpython/blob/main/Doc/tutorial/index.rst?plain=1)
+
+
+
+### Navigation
+
+  * [index](../genindex.html "General Index")
+  * [modules](../py-modindex.html "Python Module Index") |
+  * [next](appetite.html "1. Whetting Your Appetite") |
+  * [previous](../whatsnew/changelog.html "Changelog") |
+  * ![Python logo](../_static/py.svg)
+  * [Python](https://www.python.org/) »
+  *   *   * [3.13.7 Documentation](../index.html) » 
+  * [The Python Tutorial]()
+  * | 
+  * Theme  Auto Light Dark |
+
+
+
+# The Python Tutorial¶
+
+Tip
+
+This tutorial is designed for _programmers_ that are new to the Python language, **not** _beginners_ who are new to programming.
+
+Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+
+The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python web site, <https://www.python.org/>, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation.
+
+The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications.
+
+This tutorial introduces the reader informally to the basic concepts and features of the Python language and system. Be aware that it expects you to have a basic understanding of programming in general. It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well.
+
+For a description of standard objects and modules, see [The Python Standard Library](../library/index.html#library-index). [The Python Language Reference](../reference/index.html#reference-index) gives a more formal definition of the language. To write extensions in C or C++, read [Extending and Embedding the Python Interpreter](../extending/index.html#extending-index) and [Python/C API Reference Manual](../c-api/index.html#c-api-index). There are also several books covering Python in depth.
+
+This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in [The Python Standard Library](../library/index.html#library-index).
+
+The [Glossary](../glossary.html#glossary) is also worth going through.
+
+  * [1\. Whetting Your Appetite](appetite.html)
+  * [2\. Using the Python Interpreter](interpreter.html)
+    * [2.1. Invoking the Interpreter](interpreter.html#invoking-the-interpreter)
+      * [2.1.1. Argument Passing](interpreter.html#argument-passing)
+      * [2.1.2. Interactive Mode](interpreter.html#interactive-mode)
+    * [2.2. The Interpreter and Its Environment](interpreter.html#the-interpreter-and-its-environment)
+      * [2.2.1. Source Code Encoding](interpreter.html#source-code-encoding)
+  * [3\. An Informal Introduction to Python](introduction.html)
+    * [3.1. Using Python as a Calculator](introduction.html#using-python-as-a-calculator)
+      * [3.1.1. Numbers](introduction.html#numbers)
+      * [3.1.2. Text](introduction.html#text)
+      * [3.1.3. Lists](introduction.html#lists)
+    * [3.2. First Steps Towards Programming](introduction.html#first-steps-towards-programming)
+  * [4\. More Control Flow Tools](controlflow.html)
+    * [4.1. `if` Statements](controlflow.html#if-statements)
+    * [4.2. `for` Statements](controlflow.html#for-statements)
+    * [4.3. The `range()` Function](controlflow.html#the-range-function)
+    * [4.4. `break` and `continue` Statements](controlflow.html#break-and-continue-statements)
+    * [4.5. `else` Clauses on Loops](controlflow.html#else-clauses-on-loops)
+    * [4.6. `pass` Statements](controlflow.html#pass-statements)
+    * [4.7. `match` Statements](controlflow.html#match-statements)
+    * [4.8. Defining Functions](controlflow.html#defining-functions)
+    * [4.9. More on Defining Functions](controlflow.html#more-on-defining-functions)
+      * [4.9.1. Default Argument Values](controlflow.html#default-argument-values)
+      * [4.9.2. Keyword Arguments](controlflow.html#keyword-arguments)
+      * [4.9.3. Special parameters](controlflow.html#special-parameters)
+        * [4.9.3.1. Positional-or-Keyword Arguments](controlflow.html#positional-or-keyword-arguments)
+        * [4.9.3.2. Positional-Only Parameters](controlflow.html#positional-only-parameters)
+        * [4.9.3.3. Keyword-Only Arguments](controlflow.html#keyword-only-arguments)
+        * [4.9.3.4. Function Examples](controlflow.html#function-examples)
+        * [4.9.3.5. Recap](controlflow.html#recap)
+      * [4.9.4. Arbitrary Argument Lists](controlflow.html#arbitrary-argument-lists)
+      * [4.9.5. Unpacking Argument Lists](controlflow.html#unpacking-argument-lists)
+      * [4.9.6. Lambda Expressions](controlflow.html#lambda-expressions)
+      * [4.9.7. Documentation Strings](controlflow.html#documentation-strings)
+      * [4.9.8. Function Annotations](controlflow.html#function-annotations)
+    * [4.10. Intermezzo: Coding Style](controlflow.html#intermezzo-coding-style)
+  * [5\. Data Structures](datastructures.html)
+    * [5.1. More on Lists](datastructures.html#more-on-lists)
+      * [5.1.1. Using Lists as Stacks](datastructures.html#using-lists-as-stacks)
+      * [5.1.2. Using Lists as Queues](datastructures.html#using-lists-as-queues)
+      * [5.1.3. List Comprehensions](datastructures.html#list-comprehensions)
+      * [5.1.4. Nested List Comprehensions](datastructures.html#nested-list-comprehensions)
+    * [5.2. The `del` statement](datastructures.html#the-del-statement)
+    * [5.3. Tuples and Sequences](datastructures.html#tuples-and-sequences)
+    * [5.4. Sets](datastructures.html#sets)
+    * [5.5. Dictionaries](datastructures.html#dictionaries)
+    * [5.6. Looping Techniques](datastructures.html#looping-techniques)
+    * [5.7. More on Conditions](datastructures.html#more-on-conditions)
+    * [5.8. Comparing Sequences and Other Types](datastructures.html#comparing-sequences-and-other-types)
+  * [6\. Modules](modules.html)
+    * [6.1. More on Modules](modules.html#more-on-modules)
+      * [6.1.1. Executing modules as scripts](modules.html#executing-modules-as-scripts)
+      * [6.1.2. The Module Search Path](modules.html#the-module-search-path)
+      * [6.1.3. “Compiled” Python files](modules.html#compiled-python-files)
+    * [6.2. Standard Modules](modules.html#standard-modules)
+    * [6.3. The `dir()` Function](modules.html#the-dir-function)
+    * [6.4. Packages](modules.html#packages)
+      * [6.4.1. Importing * From a Package](modules.html#importing-from-a-package)
+      * [6.4.2. Intra-package References](modules.html#intra-package-references)
+      * [6.4.3. Packages in Multiple Directories](modules.html#packages-in-multiple-directories)
+  * [7\. Input and Output](inputoutput.html)
+    * [7.1. Fancier Output Formatting](inputoutput.html#fancier-output-formatting)
+      * [7.1.1. Formatted String Literals](inputoutput.html#formatted-string-literals)
+      * [7.1.2. The String format() Method](inputoutput.html#the-string-format-method)
+      * [7.1.3. Manual String Formatting](inputoutput.html#manual-string-formatting)
+      * [7.1.4. Old string formatting](inputoutput.html#old-string-formatting)
+    * [7.2. Reading and Writing Files](inputoutput.html#reading-and-writing-files)
+      * [7.2.1. Methods of File Objects](inputoutput.html#methods-of-file-objects)
+      * [7.2.2. Saving structured data with `json`](inputoutput.html#saving-structured-data-with-json)
+  * [8\. Errors and Exceptions](errors.html)
+    * [8.1. Syntax Errors](errors.html#syntax-errors)
+    * [8.2. Exceptions](errors.html#exceptions)
+    * [8.3. Handling Exceptions](errors.html#handling-exceptions)
+    * [8.4. Raising Exceptions](errors.html#raising-exceptions)
+    * [8.5. Exception Chaining](errors.html#exception-chaining)
+    * [8.6. User-defined Exceptions](errors.html#user-defined-exceptions)
+    * [8.7. Defining Clean-up Actions](errors.html#defining-clean-up-actions)
+    * [8.8. Predefined Clean-up Actions](errors.html#predefined-clean-up-actions)
+    * [8.9. Raising and Handling Multiple Unrelated Exceptions](errors.html#raising-and-handling-multiple-unrelated-exceptions)
+    * [8.10. Enriching Exceptions with Notes](errors.html#enriching-exceptions-with-notes)
+  * [9\. Classes](classes.html)
+    * [9.1. A Word About Names and Objects](classes.html#a-word-about-names-and-objects)
+    * [9.2. Python Scopes and Namespaces](classes.html#python-scopes-and-namespaces)
+      * [9.2.1. Scopes and Namespaces Example](classes.html#scopes-and-namespaces-example)
+    * [9.3. A First Look at Classes](classes.html#a-first-look-at-classes)
+      * [9.3.1. Class Definition Syntax](classes.html#class-definition-syntax)
+      * [9.3.2. Class Objects](classes.html#class-objects)
+      * [9.3.3. Instance Objects](classes.html#instance-objects)
+      * [9.3.4. Method Objects](classes.html#method-objects)
+      * [9.3.5. Class and Instance Variables](classes.html#class-and-instance-variables)
+    * [9.4. Random Remarks](classes.html#random-remarks)
+    * [9.5. Inheritance](classes.html#inheritance)
+      * [9.5.1. Multiple Inheritance](classes.html#multiple-inheritance)
+    * [9.6. Private Variables](classes.html#private-variables)
+    * [9.7. Odds and Ends](classes.html#odds-and-ends)
+    * [9.8. Iterators](classes.html#iterators)
+    * [9.9. Generators](classes.html#generators)
+    * [9.10. Generator Expressions](classes.html#generator-expressions)
+  * [10\. Brief Tour of the Standard Library](stdlib.html)
+    * [10.1. Operating System Interface](stdlib.html#operating-system-interface)
+    * [10.2. File Wildcards](stdlib.html#file-wildcards)
+    * [10.3. Command Line Arguments](stdlib.html#command-line-arguments)
+    * [10.4. Error Output Redirection and Program Termination](stdlib.html#error-output-redirection-and-program-termination)
+    * [10.5. String Pattern Matching](stdlib.html#string-pattern-matching)
+    * [10.6. Mathematics](stdlib.html#mathematics)
+    * [10.7. Internet Access](stdlib.html#internet-access)
+    * [10.8. Dates and Times](stdlib.html#dates-and-times)
+    * [10.9. Data Compression](stdlib.html#data-compression)
+    * [10.10. Performance Measurement](stdlib.html#performance-measurement)
+    * [10.11. Quality Control](stdlib.html#quality-control)
+    * [10.12. Batteries Included](stdlib.html#batteries-included)
+  * [11\. Brief Tour of the Standard Library — Part II](stdlib2.html)
+    * [11.1. Output Formatting](stdlib2.html#output-formatting)
+    * [11.2. Templating](stdlib2.html#templating)
+    * [11.3. Working with Binary Data Record Layouts](stdlib2.html#working-with-binary-data-record-layouts)
+    * [11.4. Multi-threading](stdlib2.html#multi-threading)
+    * [11.5. Logging](stdlib2.html#logging)
+    * [11.6. Weak References](stdlib2.html#weak-references)
+    * [11.7. Tools for Working with Lists](stdlib2.html#tools-for-working-with-lists)
+    * [11.8. Decimal Floating-Point Arithmetic](stdlib2.html#decimal-floating-point-arithmetic)
+  * [12\. Virtual Environments and Packages](venv.html)
+    * [12.1. Introduction](venv.html#introduction)
+    * [12.2. Creating Virtual Environments](venv.html#creating-virtual-environments)
+    * [12.3. Managing Packages with pip](venv.html#managing-packages-with-pip)
+  * [13\. What Now?](whatnow.html)
+  * [14\. Interactive Input Editing and History Substitution](interactive.html)
+    * [14.1. Tab Completion and History Editing](interactive.html#tab-completion-and-history-editing)
+    * [14.2. Alternatives to the Interactive Interpreter](interactive.html#alternatives-to-the-interactive-interpreter)
+  * [15\. Floating-Point Arithmetic: Issues and Limitations](floatingpoint.html)
+    * [15.1. Representation Error](floatingpoint.html#representation-error)
+  * [16\. Appendix](appendix.html)
+    * [16.1. Interactive Mode](appendix.html#interactive-mode)
+      * [16.1.1. Error Handling](appendix.html#error-handling)
+      * [16.1.2. Executable Python Scripts](appendix.html#executable-python-scripts)
+      * [16.1.3. The Interactive Startup File](appendix.html#the-interactive-startup-file)
+      * [16.1.4. The Customization Modules](appendix.html#the-customization-modules)
+
+
+
+#### Previous topic
+
+[Changelog](../whatsnew/changelog.html "previous chapter")
+
+#### Next topic
+
+[1\. Whetting Your Appetite](appetite.html "next chapter")
+
+### This page
+
+  * [Report a bug](../bugs.html)
+  * [Show source ](https://github.com/python/cpython/blob/main/Doc/tutorial/index.rst?plain=1)
+
+
+
+«
+
+### Navigation
+
+  * [index](../genindex.html "General Index")
+  * [modules](../py-modindex.html "Python Module Index") |
+  * [next](appetite.html "1. Whetting Your Appetite") |
+  * [previous](../whatsnew/changelog.html "Changelog") |
+  * ![Python logo](../_static/py.svg)
+  * [Python](https://www.python.org/) »
+  *   *   * [3.13.7 Documentation](../index.html) » 
+  * [The Python Tutorial]()
+  * | 
+  * Theme  Auto Light Dark |
+
+
+
+© [ Copyright ](../copyright.html) 2001-2025, Python Software Foundation.   
+This page is licensed under the Python Software Foundation License Version 2.   
+Examples, recipes, and other code in the documentation are additionally licensed under the Zero Clause BSD License.   
+See [History and License](/license.html) for more information.  
+  
+The Python Software Foundation is a non-profit corporation. [Please donate.](https://www.python.org/psf/donations/)   
+  
+Last updated on Aug 21, 2025 (07:57 UTC). [Found a bug](/bugs.html)?   
+Created using [Sphinx](https://www.sphinx-doc.org/) 8.2.3. 
+
+
+
+================================================================================
+サイト 3: https://realpython.com/
+取得日時: 2025-08-21T12:11:14.444189
+画像数: 0
+--------------------------------------------------------------------------------
+
+⚠️ Error: 400, message='Can not decode content-encoding: brotli (br). Please install `Brotli`', url='https://realpython.com/'
+
+
+
+================================================================================
+サイト 4: https://www.w3schools.com/python/
+取得日時: 2025-08-21T12:11:14.444197
+画像数: 9
+--------------------------------------------------------------------------------
+
+# Python Tutorial
+
+[ __](https://www.w3schools.com "Home") [ Tutorials ____](javascript:void\(0\) "Tutorials and References") [ Exercises ____](javascript:void\(0\) "Exercises and Quizzes") [ Certificates ____](javascript:void\(0\) "Certificates") [ Services ____](javascript:void\(0\) "Our Services") [ Menu ____](javascript:void\(0\) "Menu")
+
+Search field 
+
+_×_
+
+[ __ ](javascript:void\(0\); "Toggle light/dark mode")
+
+Sign In
+
+[ ★ +1 ](https://profile.w3schools.com/log-in "Your W3Schools Profile") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog "W3Schools Certificates") [ Upgrade ](https://order.w3schools.com/plans "Become a PLUS user and unlock powerful features") [ For Teachers ](/academy/index.php "Contact us about W3Schools Academy for educational institutions") [ Spaces ](/spaces/index.php "Get Your Own Website With W3Schools Spaces") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog "W3Schools Certificates") [ Upgrade ](https://order.w3schools.com/plans "Get personalized learning journey based on your current skills and goals") [ For Teachers ](/academy/index.php "Contact us about W3Schools Academy for educational institutions") [ Spaces ](https://spaces.w3schools.com/space/ "Go to Your W3Schools Space")
+
+[ My W3Schools ](https://pathfinder.w3schools.com "My W3Schools")
+
+Tutorials __
+
+Exercises __
+
+Certificates __
+
+Services __
+
+[ Spaces ](/spaces/index.php "Get Your Own Website With W3Schools Spaces") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog "W3Schools Certificates") [ Plus ](https://order.w3schools.com/plans "Become a PLUS user and unlock powerful features") [ Academy ](/academy/index.php "W3Schools Academy") [ Logout ](https://profile.w3schools.com/logout "Logout")
+
+[ __](https://www.youtube.com/@w3schools "W3Schools on YouTube") [ __ ](https://www.linkedin.com/company/w3schools.com/ "W3Schools on LinkedIn") [ __ ](https://discord.com/invite/w3schools "Join the W3schools community on Discord") [ __ ](https://www.facebook.com/w3schoolscom/ "W3Schools on Facebook") [ __ ](https://www.instagram.com/w3schools.com_official/ "W3Schools on Instagram")
+
+×
+
+## **Tutorials**
+
+Tutorials filter input 
+
+×
+
+###  HTML and CSS 
+
+[ Learn HTML ](/html/default.asp "HTML Tutorial") [ Tutorial ](/html/default.asp "HTML Tutorial") [ Reference ](/tags/default.asp "HTML Reference")
+
+[ Learn CSS ](/css/default.asp "CSS Tutorial") [ Tutorial ](/css/default.asp "CSS Tutorial") [ Reference ](/cssref/default.asp "CSS Reference")
+
+[ Learn RWD ](/css/css_rwd_intro.asp "Responsive Web Design Tutorial") [ Tutorial ](/css/css_rwd_intro.asp "Responsive Web Design Tutorial")
+
+[ Learn Bootstrap ](/bootstrap/bootstrap_ver.asp "Bootstrap Tutorials") [ Overview ](/bootstrap/bootstrap_ver.asp "Bootstrap Tutorials")
+
+[ Learn W3.CSS ](/w3css/default.asp "W3.CSS Tutorial") [ Tutorial ](/w3css/default.asp "W3.CSS Tutorial") [ Reference ](/w3css/w3css_references.asp "W3.CSS Reference")
+
+[ Learn Sass ](/sass/default.php "SASS Tutorial") [ Tutorial ](/sass/default.php "SASS Tutorial") [ Reference ](/sass/sass_functions_string.php "SASS Reference")
+
+[ Learn Colors ](/colors/default.asp "Colors Tutorial") [ Tutorial ](/colors/default.asp "Colors Tutorial") [ Reference ](/colors/colors_fs595.asp "Colors Reference")
+
+[ Learn Icons ](/icons/default.asp "Icons Tutorial") [ Tutorial ](/icons/default.asp "Icons Tutorial") [ Reference ](/icons/icons_reference.asp "Icons Reference")
+
+[ Learn SVG ](/graphics/svg_intro.asp "SVG Tutorial") [ Tutorial ](/graphics/svg_intro.asp "SVG Tutorial") [ Reference ](/graphics/svg_reference.asp "SVG Reference")
+
+[ Learn Canvas ](/graphics/canvas_intro.asp "Canvas Tutorial") [ Tutorial ](/graphics/canvas_intro.asp "Canvas Tutorial") [ Reference ](/graphics/canvas_reference.asp "Canvas Reference")
+
+[ Learn Graphics ](/graphics/default.asp "Graphics Tutorial") [ Tutorial ](/graphics/default.asp "Graphics Tutorial")
+
+[ Learn UTF-8 and Emojis ](/charsets/default.asp "UTF-8 and Emojis Reference") [ Reference ](/charsets/default.asp "UTF-8 and Emojis Reference")
+
+[ Learn How To ](/howto/default.asp "How To - Code Snippets") [ Tutorial ](/howto/default.asp "How To - Code Snippets")
+
+###  Data Analytics 
+
+[ Learn AI ](/ai/default.asp "Artificial Intelligence Tutorial") [ Tutorial ](/ai/default.asp "Artificial Intelligence Tutorial")
+
+[ Learn Generative AI ](/gen_ai/index.php "Generative AI Tutorial") [ Tutorial ](/gen_ai/index.php "Generative AI Tutorial")
+
+[ Learn ChatGPT-3.5 ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5 Tutorial") [ Tutorial ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5  Tutorial")
+
+[ Learn ChatGPT-4 ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial") [ Tutorial ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial")
+
+[ Learn Google Bard ](/gen_ai/bard/index.php "Google Bard Tutorial") [ Tutorial ](/gen_ai/bard/index.php "Google Bard Tutorial")
+
+[ Learn Machine Learning ](/python/python_ml_getting_started.asp "Machine Learning Tutorial") [ Tutorial ](/python/python_ml_getting_started.asp "Machine Learning Tutorial")
+
+[ Learn DSA ](/dsa/index.php "DSA - Data Structures and Algorithms") [ Tutorial ](/dsa/index.php "DSA - Data Structures and Algorithms")
+
+[ Learn Data Science ](/datascience/default.asp "Data Science Tutorial") [ Tutorial ](/datascience/default.asp "Data Science Tutorial")
+
+[ Learn NumPy ](/python/numpy/default.asp "NumPy Tutorial") [ Tutorial ](/python/numpy/default.asp "NumPy Tutorial")
+
+[ Learn Pandas ](/python/pandas/default.asp "Pandas Tutorial") [ Tutorial ](/python/pandas/default.asp "Pandas Tutorial")
+
+[ Learn SciPy ](/python/scipy/index.php "SciPy Tutorial") [ Tutorial ](/python/scipy/index.php "SciPy Tutorial")
+
+[ Learn Matplotlib ](/python/matplotlib_intro.asp "Matplotlib Tutorial") [ Tutorial ](/python/matplotlib_intro.asp "Matplotlib Tutorial")
+
+[ Learn Statistics ](/statistics/index.php "Statistics Tutorial") [ Tutorial ](/statistics/index.php "Statistics Tutorial")
+
+[ Learn Excel ](/excel/index.php "Excel Tutorial") [ Tutorial ](/excel/index.php "Excel Tutorial")
+
+[ Learn Google Sheets ](/googlesheets/index.php "Google Sheets Tutorial") [ Tutorial ](/googlesheets/index.php "Google Sheets Tutorial")
+
+###  Web Building 
+
+[ Create a Website  HOT!  ](/spaces/index.php "Get Your Own Website With W3shools Spaces")
+
+[ Create a Server NEW ](/spaces/index.php "Get Your Own Server With W3shools Spaces")
+
+[ Where To Start ](/where_to_start.asp "Where To Start - Web Development")
+
+[ Web Templates ](/w3css/w3css_templates.asp "Free Web Templates")
+
+[ Web Statistics ](/browsers/default.asp "Web Statistics")
+
+[ Web Certificates ](https://campus.w3schools.com "Certificates")
+
+[ Web Development ](/whatis/default.asp "Web Development Roadmaps")
+
+[ Introduction to Programming ](/programming/index.php "Introduction to Programming")
+
+[ Code Editor ](/tryit/default.asp "Try it - Code Editor")
+
+[ Test Your Typing Speed ](/typingspeed/default.asp "Test Your Typing Speed")
+
+[ Play a Code Game ](/codegame/index.html "Play a Code Game")
+
+[ Cyber Security ](/cybersecurity/index.php "Cyber Security Tutorial")
+
+[ Accessibility ](/accessibility/index.php "Accessibility Security Tutorial")
+
+[ Join our Newsletter ](https://campus.w3schools.com/pages/newsletter "W3Schools Newsletter")
+
+###  JavaScript 
+
+[ Learn JavaScript ](/js/default.asp "JavaScript Tutorial") [ Tutorial ](/js/default.asp "JavaScript Tutorial") [ Reference ](/jsref/default.asp "JavaScript Reference")
+
+[ Learn React ](/react/default.asp "React Tutorial") [ Tutorial ](/react/default.asp "React Tutorial")
+
+[ Learn jQuery ](/jquery/default.asp "jQuery Tutorial") [ Tutorial ](/jquery/default.asp "jQuery Tutorial") [ Reference ](/jquery/jquery_ref_overview.asp "jQuery Reference")
+
+[ Learn Vue ](/vue/index.php "Vue Tutorial") [ Tutorial ](/vue/index.php "Vue Tutorial") [ Reference ](/vue/vue_ref_builtin-attributes.php "Vue Reference")
+
+[ Learn AngularJS ](/angular/default.asp "Angular Tutorial") [ Tutorial ](/angular/default.asp "Angular Tutorial") [ Reference ](/angular/angular_ref_directives.asp "Angular Reference")
+
+[ Learn JSON ](/js/js_json_intro.asp "JSON Tutorial") [ Tutorial ](/js/js_json_intro.asp "JSON Tutorial") [ Reference ](/jsref/jsref_obj_json.asp "JSON Reference")
+
+[ Learn AJAX ](/js/js_ajax_intro.asp "AJAX Tutorial") [ Tutorial ](/js/js_ajax_intro.asp "AJAX Tutorial")
+
+[ Learn AppML ](/appml/default.asp "AppML Tutorial") [ Tutorial ](/appml/default.asp "AppML Tutorial") [ Reference ](/appml/appml_reference.asp "AppML Reference")
+
+[ Learn W3.JS ](/w3js/default.asp "W3.JS Tutorial") [ Tutorial ](/w3js/default.asp "W3.JS Tutorial") [ Reference ](/w3js/w3js_references.asp "W3.JS Reference")
+
+###  Web Building 
+
+[ Create a Website  HOT!  ](/spaces/index.php "Get Your Own Website With W3shools Spaces")
+
+[ Create a Server NEW ](/spaces/index.php "Get Your Own Server With W3shools Spaces")
+
+[ Where To Start ](/where_to_start.asp "Where To Start - Web Development")
+
+[ Web Templates ](/w3css/w3css_templates.asp "Free Web Templates")
+
+[ Web Statistics ](/browsers/default.asp "Web Statistics")
+
+[ Web Certificates ](https://campus.w3schools.com "Certificates")
+
+[ Web Development ](/whatis/default.asp "Web Development Roadmaps")
+
+[ Introduction to Programming ](/programming/index.php "Introduction to Programming")
+
+[ Code Editor ](/tryit/default.asp "Try it - Code Editor")
+
+[ Test Your Typing Speed ](/typingspeed/default.asp "Test Your Typing Speed")
+
+[ Play a Code Game ](/codegame/index.html "Play a Code Game")
+
+[ Cyber Security ](/cybersecurity/index.php "Cyber Security Tutorial")
+
+[ Accessibility ](/accessibility/index.php "Accessibility Security Tutorial")
+
+[ Join our Newsletter ](https://campus.w3schools.com/pages/newsletter "W3Schools Newsletter")
+
+###  Backend 
+
+[ Learn Python ](/python/default.asp "Python Tutorial") [ Tutorial ](/python/default.asp "Python Tutorial") [ Reference ](/python/python_reference.asp "Python Reference")
+
+[ Learn SQL ](/sql/default.asp "SQL Tutorial") [ Tutorial ](/sql/default.asp "SQL Tutorial") [ Reference ](/sql/sql_ref_keywords.asp "SQL Reference")
+
+[ Learn MySQL ](/mysql/default.asp "MySQL Tutorial") [ Tutorial ](/mysql/default.asp "MySQL Tutorial") [ Reference ](/mysql/mysql_datatypes.asp "MySQL Reference")
+
+[ Learn PHP ](/php/default.asp "PHP Tutorial") [ Tutorial ](/php/default.asp "PHP Tutorial") [ Reference ](/php/php_ref_overview.asp "PHP Reference")
+
+[ Learn Java ](/java/default.asp "Java Tutorial") [ Tutorial ](/java/default.asp "Java Tutorial") [ Reference ](/java/java_ref_reference.asp "Java Reference")
+
+[ Learn C ](/c/index.php "C Tutorial") [ Tutorial ](/c/index.php "C Tutorial") [ Reference ](/c/c_ref_reference.php "C Reference")
+
+[ Learn C++ ](/cpp/default.asp "C++ Tutorial") [ Tutorial ](/cpp/default.asp "C++ Tutorial") [ Reference ](/cpp/cpp_ref_reference.asp "C++ Reference")
+
+[ Learn C# ](/cs/index.php "C# Tutorial") [ Tutorial ](/cs/index.php "C# Tutorial")
+
+[ Learn R ](/r/default.asp "R Tutorial") [ Tutorial ](/r/default.asp "R Tutorial")
+
+[ Learn Kotlin ](/kotlin/index.php "Kotlin Tutorial") [ Tutorial ](/kotlin/index.php "Kotlin Tutorial")
+
+[ Learn Rust ](/rust/index.php "Rust Tutorial") [ Tutorial ](/rust/index.php "Rust Tutorial")
+
+[ Learn Go ](/go/index.php "Go Tutorial") [ Tutorial ](/go/index.php "Go Tutorial")
+
+[ Learn Django ](/django/index.php "Django Tutorial") [ Tutorial ](/django/index.php "Django Tutorial") [ Reference ](/django/django_ref_template_tags.php "Django Reference")
+
+[ Learn PostgreSQL ](/postgresql/index.php "PostgreSQL Tutorial") [ Tutorial ](/postgresql/index.php "PostgreSQL Tutorial")
+
+[ Learn TypeScript ](/typescript/index.php "TypeScript Tutorial") [ Tutorial ](/typescript/index.php "TypeScript Reference")
+
+[ Learn ASP ](/asp/default.asp "ASP Tutorial") [ Tutorial ](/asp/default.asp "ASP Tutorial") [ Reference ](/asp/asp_ref_vbscript_functions.asp "ASP Reference")
+
+[ Learn Node.js ](/nodejs/default.asp "Node.js Tutorial") [ Tutorial ](/nodejs/default.asp "Node.js Tutorial") [ Reference ](/nodejs/ref_modules.asp "Node.js Reference")
+
+[ Learn Raspberry Pi ](/nodejs/nodejs_raspberrypi.asp "Raspberry Pi Tutorial") [ Tutorial ](/nodejs/nodejs_raspberrypi.asp "Raspberry Pi Tutorial")
+
+[ Learn Git ](/git/default.asp "Git Tutorial") [ Tutorial ](/git/default.asp "Git Tutorial")
+
+[ Learn Bash ](/bash/index.php "Bash Tutorial") [ Tutorial ](/bash/index.php "Bash Tutorial")
+
+[ Learn MongoDB ](/mongodb/index.php "MongoDB Tutorial") [ Tutorial ](/mongodb/index.php "MongoDB Tutorial")
+
+[ Learn XML ](/xml/default.asp "XML Tutorial") [ Tutorial ](/xml/default.asp "XML Tutorial") [ Reference ](/xml/dom_nodetype.asp "XML Reference")
+
+###  Data Analytics 
+
+[ Learn AI ](/ai/default.asp "Artificial Intelligence Tutorial") [ Tutorial ](/ai/default.asp "Artificial Intelligence Tutorial")
+
+[ Learn Generative AI ](/gen_ai/index.php "Generative AI Tutorial") [ Tutorial ](/gen_ai/index.php "Generative AI Tutorial")
+
+[ Learn ChatGPT-3.5 ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5 Tutorial") [ Tutorial ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5  Tutorial")
+
+[ Learn ChatGPT-4 ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial") [ Tutorial ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial")
+
+[ Learn Google Bard ](/gen_ai/bard/index.php "Google Bard Tutorial") [ Tutorial ](/gen_ai/bard/index.php "Google Bard Tutorial")
+
+[ Learn Machine Learning ](/python/python_ml_getting_started.asp "Machine Learning Tutorial") [ Tutorial ](/python/python_ml_getting_started.asp "Machine Learning Tutorial")
+
+[ Learn DSA ](/dsa/index.php "DSA - Data Structures and Algorithms") [ Tutorial ](/dsa/index.php "DSA - Data Structures and Algorithms ")
+
+[ Learn Data Science ](/datascience/default.asp "Data Science Tutorial") [ Tutorial ](/datascience/default.asp "Data Science Tutorial")
+
+[ Learn NumPy ](/python/numpy/default.asp "NumPy Tutorial") [ Tutorial ](/python/numpy/default.asp "NumPy Tutorial")
+
+[ Learn Pandas ](/python/pandas/default.asp "Pandas Tutorial") [ Tutorial ](/python/pandas/default.asp "Pandas Tutorial")
+
+[ Learn SciPy ](/python/scipy/index.php "SciPy Tutorial") [ Tutorial ](/python/scipy/index.php "SciPy Tutorial")
+
+[ Learn Matplotlib ](/python/matplotlib_intro.asp "Matplotlib Tutorial") [ Tutorial ](/python/matplotlib_intro.asp "Matplotlib Tutorial")
+
+[ Learn Statistics ](/statistics/index.php "Statistics Tutorial") [ Tutorial ](/statistics/index.php "Statistics Tutorial")
+
+[ Learn Excel ](/excel/index.php "Excel Tutorial") [ Tutorial ](/excel/index.php "Excel Tutorial")
+
+[ Learn Google Sheets ](/googlesheets/index.php "Google Sheets Tutorial") [ Tutorial ](/googlesheets/index.php "Google Sheets Tutorial")
+
+###  Web Building 
+
+[ Create a Website  HOT!  ](/spaces/index.php "Get Your Own Website With W3shools Spaces")
+
+[ Create a Server NEW ](/spaces/index.php "Get Your Own Server With W3shools Spaces")
+
+[ Where To Start ](/where_to_start.asp "Where To Start - Web Development")
+
+[ Web Templates ](/w3css/w3css_templates.asp "Free Web Templates")
+
+[ Web Statistics ](/browsers/default.asp "Web Statistics")
+
+[ Web Certificates ](https://campus.w3schools.com "Certificates")
+
+[ Web Development ](/whatis/default.asp "Web Development Roadmaps")
+
+[ Introduction to Programming ](/programming/index.php "Introduction to Programming")
+
+[ Code Editor ](/tryit/default.asp "Try it - Code Editor")
+
+[ Test Your Typing Speed ](/typingspeed/default.asp "Test Your Typing Speed")
+
+[ Play a Code Game ](/codegame/index.html "Play a Code Game")
+
+[ Cyber Security ](/cybersecurity/index.php "Cyber Security Tutorial")
+
+[ Accessibility ](/accessibility/index.php "Accessibility Security Tutorial")
+
+[ Join our Newsletter ](https://campus.w3schools.com/pages/newsletter "W3Schools Newsletter")
+
+  
+
+
+×
+
+## **Exercises**
+
+Excercises filter input 
+
+×
+
+###  HTML and CSS 
+
+[ HTML ](/html/html_exercises.asp "HTML Exercises") [ Exercise ](/html/html_exercises.asp "HTML Exercises") [ Quiz ](/html/html_quiz.asp "HTML Quizzes")
+
+[ CSS ](/css/css_exercises.asp "CSS Exercises") [ Exercise ](/css/css_exercises.asp "CSS Exercises") [ Quiz ](/css/css_quiz.asp "CSS Quizzes")
+
+[ Bootstrap 3 ](/bootstrap/bootstrap_exercises.asp "Bootstrap 3 Exercises") [ Exercise ](/bootstrap/bootstrap_exercises.asp "Bootstrap 3 Exercises") [ Quiz ](/bootstrap/bootstrap_quiz.asp "Bootstrap 3 Quizzes")
+
+[ Bootstrap 4 ](/bootstrap4/bootstrap_exercises.asp "Bootstrap 4 Exercises") [ Exercise ](/bootstrap4/bootstrap_exercises.asp "Bootstrap 4 Exercises") [ Quiz ](/bootstrap4/bootstrap_quiz.asp "Bootstrap 4 Quizzes")
+
+[ Bootstrap 5 ](/bootstrap5/bootstrap_exercises.php "Bootstrap 5 Exercises") [ Exercise ](/bootstrap5/bootstrap_exercises.php "Bootstrap 5 Exercises") [ Quiz ](/bootstrap5/bootstrap_quiz.php "Bootstrap 5 Quizzes")
+
+###  Data Analytics 
+
+[ DSA ](/dsa/dsa_exercises.php "DSA Exercises") [ Exercise ](/dsa/dsa_exercises.php "DSA Exercises") [ Quiz ](/dsa/dsa_quiz.php "DSA Quizzes")
+
+[ NumPy ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Exercise ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Quiz ](/python/numpy/numpy_quiz.asp "NumPy Quizzes")
+
+[ Pandas ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Exercise ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Quiz ](/python/pandas/pandas_quiz.asp "Pandas Quizzes")
+
+[ SciPy ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Exercise ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Quiz ](/python/scipy/scipy_quiz.php "SciPy Quizzes")
+
+[ Excel ](/excel/excel_exercises.php "Excel Exercises") [ Exercise ](/excel/excel_exercises.php "Excel Exercises")
+
+[ What is an Exercise? ](/exercises/index.php "W3Schools Exercises") [ What is a Quiz? ](/quiztest/default.asp "W3Schools Quizzes")
+
+###  JavaScript 
+
+[ JavaScript ](/js/js_exercises.asp "JavaScript Exercises") [ Exercise ](/js/js_exercises.asp "JavaScript Exercises") [ Quiz ](/js/js_quiz.asp "JavaScript Quizzes")
+
+[ React ](/react/react_exercises.asp "React Exercises") [ Exercise ](/react/react_exercises.asp "React Exercises") [ Quiz ](/react/react_quiz.asp "React Quizzes")
+
+[ jQuery ](/jquery/jquery_exercises.asp "jQuery Exercises") [ Exercise ](/jquery/jquery_exercises.asp "jQuery Exercises") [ Quiz ](/jquery/jquery_quiz.asp "jQuery Quizzes")
+
+[ Vue ](/vue/vue_exercises.php "Vue Exercises") [ Exercise ](/vue/vue_exercises.php "Vue Exercises") [ Quiz ](/vue/vue_quiz.php "Vue Quizzes")
+
+###  Backend 
+
+[ Python ](/python/python_exercises.asp "Python Exercises") [ Exercise ](/python/python_exercises.asp "Python Exercises") [ Quiz ](/python/python_quiz.asp "Python Quizzes")
+
+[ SQL ](/sql/sql_exercises.asp "SQL Exercises") [ Exercise ](/sql/sql_exercises.asp "SQL Exercises") [ Quiz ](/sql/sql_quiz.asp "SQL Quizzes")
+
+[ MySQL ](/mysql/mysql_exercises.asp "MySQL Exercises") [ Exercise ](/mysql/mysql_exercises.asp "MySQL Exercises") [ Quiz ](/mysql/mysql_quiz.asp "MySQL Quizzes")
+
+[ PHP ](/php/php_exercises.asp "PHP Exercises") [ Exercise ](/php/php_exercises.asp "PHP Exercises") [ Quiz ](/php/php_quiz.asp "PHP Quizzes")
+
+[ Java ](/java/java_exercises.asp "Java Exercises") [ Exercise ](/java/java_exercises.asp "Java Exercises") [ Quiz ](/java/java_quiz.asp "Java Quizzes")
+
+[ C ](/c/c_exercises.php "C Exercises") [ Exercise ](/c/c_exercises.php "C Exercises") [ Quiz ](/c/c_quiz.php "C Quizzes")
+
+[ C++ ](/cpp/cpp_exercises.asp "C++ Exercises") [ Exercise ](/cpp/cpp_exercises.asp "C++ Exercises") [ Quiz ](/cpp/cpp_quiz.asp "C++ Quizzes")
+
+[ C# ](/cs/cs_exercises.php "C# Exercises") [ Exercise ](/cs/cs_exercises.php "C# Exercises") [ Quiz ](/cs/cs_quiz.php "C# Quizzes")
+
+[ R ](/r/r_exercises.asp "R Exercises") [ Exercise ](/r/r_exercises.asp "R Exercises") [ Quiz ](/r/r_quiz.asp "R Quizzes")
+
+[ Kotlin ](/kotlin/kotlin_exercises.php "Kotlin Exercises") [ Exercise ](/kotlin/kotlin_exercises.php "Kotlin Exercises") [ Quiz ](/kotlin/kotlin_quiz.php "Kotlin Quizzes")
+
+[ Django ](/django/django_exercises.php "Django Exercises") [ Exercise ](/django/django_exercises.php "Django Exercises") [ Quiz ](/django/django_quiz.php "Django Quizzes")
+
+[ Node.js ](/nodejs/nodejs_exercises.asp "Node.js Exercises") [ Exercise ](/nodejs/nodejs_exercises.asp "Node.js Exercises") [ Quiz ](/nodejs/nodejs_quiz.asp "Node.js Quizzes")
+
+[ PostgreSQL ](/postgresql/postgresql_exercises.php "PostgreSQL Exercises") [ Exercise ](/postgresql/postgresql_exercises.php "PostgreSQL Exercises") [ Quiz ](/postgresql/postgresql_quiz.php "PostgreSQL Quizzes")
+
+[ TypeScript ](/typescript/typescript_exercises.php "TypeScript Exercises") [ Exercise ](/typescript/typescript_exercises.php "TypeScript Exercises") [ Quiz ](/typescript/typescript_quiz.php "TypeScript Quizzes")
+
+[ Git ](/git/git_exercises.asp "Git Exercises") [ Exercise ](/git/git_exercises.asp "Git Exercises") [ Quiz ](/git/git_quiz.asp "Git Quizzes")
+
+[ Bash ](/bash/bash_exercises.php "Bash Exercises") [ Exercise ](/bash/bash_exercises.php "Bash Exercises") [ Quiz ](/bash/bash_quiz.php "Bash Quizzes")
+
+[ Go ](/go/go_exercises.php "Go Exercises") [ Exercise ](/go/go_exercises.php "Go Exercises")
+
+[ MongoDB ](/mongodb/mongodb_exercises.php "MongoDB Exercises") [ Exercise ](/mongodb/mongodb_exercises.php "MongoDB Exercises")
+
+###  Data Analytics 
+
+[ DSA ](/dsa/dsa_exercises.php "DSA Exercises") [ Exercise ](/dsa/dsa_exercises.php "DSA Exercises") [ Quiz ](/dsa/dsa_quiz.php "DSA Quizzes")
+
+[ NumPy ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Exercise ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Quiz ](/python/numpy/numpy_quiz.asp "NumPy Quizzes")
+
+[ Pandas ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Exercise ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Quiz ](/python/pandas/pandas_quiz.asp "Pandas Quizzes")
+
+[ SciPy ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Exercise ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Quiz ](/python/scipy/scipy_quiz.php "SciPy Quizzes")
+
+[ Excel ](/excel/excel_exercises.php "Excel Exercises") [ Exercise ](/excel/excel_exercises.php "Excel Exercises")
+
+[ What is an Exercise? ](/exercises/index.php "W3Schools Exercises") [ What is a Quiz? ](/quiztest/default.asp "W3Schools Quizzes")
+
+  
+
+
+×
+
+## **Certificates**
+
+Filter field for certifications 
+
+×
+
+###  HTML and CSS 
+
+[ HTML ](https://campus.w3schools.com/collections/certifications/products/html-certificate "HTML Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/html-certificate "HTML Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/html-course "Paid HTML Course")
+
+[ CSS ](https://campus.w3schools.com/collections/certifications/products/css-certificate "CSS Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/css-certificate "CSS Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/css-course "Paid CSS Course")
+
+[ Bootstrap 3 ](https://campus.w3schools.com/collections/certifications/products/bootstrap-3-certificate "Bootstrap 3 Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/bootstrap-3-certificate "Bootstrap 3 Certification Exam") [ Course ](https://campus.w3schools.com/collections/single-courses/products/bootstrap-course "Paid Bootstrap 3 Course")
+
+[ Bootstrap 4 ](https://campus.w3schools.com/collections/certifications/products/bootstrap-4-certificate "Bootstrap 4 Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/bootstrap-4-certificate "Bootstrap 4 Certification Exam") [ Course ](https://campus.w3schools.com/collections/single-courses/products/bootstrap-4-course "Paid Bootstrap 4 Course")
+
+[ Bootstrap 5 ](https://campus.w3schools.com/collections/certifications/products/bootstrap-5-certificate "Bootstrap 5 Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/bootstrap-5-certificate "Bootstrap 5 Certification Exam")
+
+###  Data Analytics 
+
+[ DSA ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certificate Exam") [ Certificate ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certificate Exam")
+
+[ Data Analytics ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course") [ Course ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course")
+
+[ NumPy ](https://campus.w3schools.com/products/numpy-certification-exam "NumPy Certification Exam") [ Certificate ](https://campus.w3schools.com/products/numpy-certification-exam "NumPy Certification Exam") [ Course ](https://campus.w3schools.com/products/numpy-course "Paid NumPy Course")
+
+[ Pandas ](https://campus.w3schools.com/products/pandas-certification-exam "Pandas Certification Exam") [ Certificate ](https://campus.w3schools.com/products/pandas-certification-exam "Pandas Certification Exam") [ Course ](https://campus.w3schools.com/products/pandas-course "Paid Pandas Course")
+
+[ Excel ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam") [ Certificate ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam")
+
+[ Social Media ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course")
+
+[ What is a Certificate? ](https://campus.w3schools.com "W3Schools Campus")
+
+###  Programs 
+
+[ Full Access  Best Value!  ](https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course "Paid Full Access Course")
+
+[ Front End ](https://campus.w3schools.com/collections/certifications/products/front-end-course "Paid Front End Course") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/front-end-course "Paid Front End Development Course")
+
+[ Web Dev. ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development "Paid Web Development Course")
+
+[ Web App ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course "Paid Web Application Course")
+
+[ Web Design ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design "Paid Web Design Course")
+
+###  JavaScript 
+
+[ JavaScript ](https://campus.w3schools.com/collections/certifications/products/javascript-certificate "JavaScript Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/javascript-certificate "JavaScript Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/javascript-course "Paid JavaScript Course")
+
+[ React ](https://campus.w3schools.com/collections/certifications/products/react-js-certificate "React.js Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/react-js-certificate "React.js Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/react-js-course "Paid React.js Course")
+
+[ jQuery ](https://campus.w3schools.com/collections/certifications/products/jquery-certificate "jQuery Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/jquery-certificate "jQuery Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/jquery-course "Paid jQuery Course")
+
+[ Vue ](https://campus.w3schools.com/products/vue-js-certification-exam "Vue Certification Exam") [ Certificate ](https://campus.w3schools.com/products/vue-js-certification-exam "Vue Certification Exam")
+
+###  Programs 
+
+[ Full Access  Best Value!  ](https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course "Paid Full Access Course")
+
+[ Front End ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/front-end-course "Paid Front End Development Course")
+
+[ Web Dev. ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development "Paid Web Development Course")
+
+[ Web App ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course "Paid Web Application Course")
+
+[ Web Design ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design "Paid Web Design Course")
+
+###  Programs 
+
+[ Full Access  Best Value!  ](https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course "Paid Full Access Course")
+
+[ Front End ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/front-end-course "Paid Front End Development Course")
+
+[ Web Dev. ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development "Paid Web Development Course")
+
+[ Web App ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course "Paid Web Application Course")
+
+[ Web Design ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design "Paid Web Design Course")
+
+  
+
+
+###  Backend 
+
+[ Python ](https://campus.w3schools.com/collections/certifications/products/python-certificate "Python Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/python-certificate "Python Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/python-course "Paid Python Course")
+
+[ SQL ](https://campus.w3schools.com/collections/certifications/products/sql-certificate "SQL Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/sql-certificate "SQL Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/sql-course "SQL Python Course")
+
+[ MySQL ](https://campus.w3schools.com/collections/certifications/products/mysql-certificate "MySQL Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/mysql-certificate "MySQL Certification Exam")
+
+[ PHP ](https://campus.w3schools.com/collections/certifications/products/php-certificate "PHP Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/php-certificate "PHP Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/php-course "Paid PHP Course")
+
+[ Java ](https://campus.w3schools.com/collections/certifications/products/java-certificate "Java Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/java-certificate "Java Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/java-course "Paid Java Course")
+
+[ C ](https://campus.w3schools.com/products/c-certification-exam "C Certification Exam") [ Certificate ](https://campus.w3schools.com/products/c-certification-exam "C Certification Exam")
+
+[ C++ ](https://campus.w3schools.com/collections/certifications/products/c-certificate "C++ Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/c-certificate "C++ Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/c-course-1 "Paid C++ Course")
+
+[ C# ](https://campus.w3schools.com/collections/certifications/products/c-certificate-1 "C# Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/c-certificate-1 "C# Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/c-course "Paid C# Course")
+
+[ R ](https://campus.w3schools.com/collections/course-catalog/products/r-course "Paid R Course") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/r-course "Paid R Course")
+
+[ Django ](https://campus.w3schools.com/products/django-certification-exam "Django Certification Exam") [ Certificate ](https://campus.w3schools.com/products/django-certification-exam "Django Certification Exam")
+
+[ NodeJS ](https://campus.w3schools.com/products/nodejs-certificate "NodeJS Certification Exam") [ Certificate ](https://campus.w3schools.com/products/nodejs-certificate "NodeJS Certification Exam")
+
+[ TypeScript ](https://campus.w3schools.com/collections/certifications/products/typescript-certificate "TypeScript Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/typescript-certificate "TypeScript Certification Exam") [ Course ](https://campus.w3schools.com/products/learn-typescript "Paid TypeScript Course")
+
+[ XML ](https://campus.w3schools.com/collections/certifications/products/xml-certificate "XML Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/xml-certificate "XML Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/xml-course "Paid XML Course")
+
+[ Cyber Security ](https://campus.w3schools.com/collections/certifications/products/cyber-security-certificate "Cyber Security Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/cyber-security-certificate "Cyber Security Certification Exam") [ Course ](https://campus.w3schools.com/products/cyber-security-course "Paid Cyber Security Course")
+
+[ Accessibility ](https://campus.w3schools.com/collections/certifications/products/accessibility-certificate "Accessibility Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/accessibility-certificate "Accessibility Certification Exam") [ Course ](https://campus.w3schools.com/products/accessibility-course "Paid Accessibility Course")
+
+###  Data Analytics 
+
+[ DSA ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certification Exam") [ Exam ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certification Exam")
+
+[ Data Analytics ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course") [ Course ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course")
+
+[ NumPy ](https://campus.w3schools.com/products/numpy-course "Paid NumPy Course") [ Course ](https://campus.w3schools.com/products/numpy-course "Paid NumPy Course")
+
+[ Pandas ](https://campus.w3schools.com/products/pandas-course "Paid SciPy Course") [ Course ](https://campus.w3schools.com/products/pandas-course "Paid SciPy Course")
+
+[ Excel ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam") [ Certificate ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam")
+
+[ Social Media ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course")
+
+[ What is a Certificate? ](https://campus.w3schools.com "W3Schools Campus")
+
+  
+
+
+×
+
+## **All Our Services**
+
+Services filter input 
+
+×
+
+W3Schools offers a wide range of services and products for beginners and professionals,   
+helping millions of people everyday to learn and master new skills. 
+
+#### [Free Tutorials Enjoy our free tutorials like millions of other internet users since 1999  ](/tutorials/index.php "Tutorials")
+
+#### [References Explore our selection of references covering all popular coding languages  ](/references/index.php "References")
+
+#### [Create a Website Create your own website with **W3Schools Spaces** \- no setup required  ](/spaces/index.php "Create a Website")
+
+#### [Exercises Test your skills with different exercises ](/exercises/index.php "Test yourself with exercises")
+
+#### [Quizzes Test yourself with multiple choice questions ](/quiztest/default.asp "Test yourself with quizzes")
+
+#### [Get Certified Document your knowledge ](https://campus.w3schools.com/collections/certifications "Certificates")
+
+#### [Log in / Sign Up Create a **free** W3Schools Account to Improve Your Learning Experience  ](https://profile.w3schools.com/sign-up "Log in our Sign up")
+
+#### [My Learning Track your learning progress at W3Schools and collect rewards  ](https://profile.w3schools.com/sign-up "Track Your Progress With My Learning")
+
+#### [Upgrade Become a PLUS user and unlock powerful features (ad-free, hosting, support,..)  ](https://order.w3schools.com/plans "Upgrade subscription")
+
+#### [Where To Start Not sure where you want to start? Follow our guided path  ](/where_to_start.asp "Where To Start")
+
+#### [Code Editor (Try it) With our online code editor, you can edit code and view the result in your browser  ](/tryit/default.asp "W3Schools Code Editor")
+
+#### [Videos Learn the basics of HTML in a fun and engaging video tutorial  ](/videos/index.php "HTML Video Tutorial")
+
+#### [Templates We have created a bunch of responsive website templates you can use - for free!  ](/w3css/w3css_templates.asp "Free Web Templates")
+
+#### [Web Hosting Host your own website, and share it to the world with **W3Schools Spaces** ](/spaces/index.php "Web Hosting with Spaces")
+
+#### [Create a Server Create your own server using Python, PHP, React.js, Node.js, Java, C#, etc.  ](/spaces/index.php "Get your own server")
+
+#### [How To's Large collection of code snippets for HTML, CSS and JavaScript  ](/howto/default.asp "How To Collection")
+
+#### [CSS Framework Build fast and responsive sites using our free **W3.CSS** framework  ](/w3css/default.asp "W3.CSS Framework")
+
+#### [Browser Statistics Read long term trends of browser usage ](/browsers/default.asp "Browser Statistics")
+
+#### [Typing Speed Test your typing speed ](/typingspeed/default.asp "Test Your Typing speed")
+
+#### [Color Picker Use our color picker to find different RGB, HEX and HSL colors. ![A circular color wheel showing the gradation of colors in the spectrum](/images/colorpicker2000.png) ](/colors/colors_picker.asp "Color Picker")
+
+#### [Code Game W3Schools Coding Game! Help the lynx collect pine cones ![Lynx logo](/signup/lynxlogo.svg) ](/codegame/index.html "Coding Game")
+
+#### [Newsletter Join our newsletter and get access to exclusive content every month  ](https://campus.w3schools.com/pages/newsletter "Join Our Newsletter")
+
+#### [For Teachers Contact us about W3Schools Academy for educational institutions  ](/academy/index.php "W3Schools Academy / Classroom")
+
+#### [For Businesses Contact us about W3Schools Academy for your organization  ](/academy/index.php "W3Schools Academy / Classroom")
+
+#### Contact Us
+
+About sales: sales@w3schools.com   
+About errors: help@w3schools.com
+
+#### [Emojis Reference Check out our refererence page with all the emojis supported in HTML 😊 ](/charsets/ref_emoji_intro.asp "Emojis Reference")
+
+#### [UTF-8 Reference Check out our full UTF-8 Character reference ](/charsets/default.asp "UTF-8 Reference")
+
+[ __](https://www.youtube.com/@w3schools "W3Schools on YouTube") [ __ ](https://www.linkedin.com/company/w3schools.com/ "W3Schools on LinkedIn") [ __ ](https://discord.com/invite/w3schools "Join the W3schools community on Discord") [ __ ](https://www.facebook.com/w3schoolscom/ "W3Schools on Facebook") [ __ ](https://www.instagram.com/w3schools.com_official/ "W3Schools on Instagram")
+
+×
+
+❮ 
+
+❯ 
+
+[](javascript:void\(0\); "Menu")
+
+[HTML](/html/default.asp "HTML Tutorial") [CSS](/css/default.asp "CSS Tutorial") [JAVASCRIPT](/js/default.asp "JavaScript Tutorial") [SQL](/sql/default.asp "SQL Tutorial") [PYTHON](/python/default.asp "Python Tutorial") [JAVA](/java/default.asp "Java Tutorial") [PHP](/php/default.asp "PHP Tutorial") [HOW TO](/howto/default.asp "How to") [W3.CSS](/w3css/default.asp "W3.CSS Tutorial") [C](/c/index.php "C Tutorial") [C++](/cpp/default.asp "C++ Tutorial") [C#](/cs/index.php "C# Tutorial") [BOOTSTRAP](/bootstrap/bootstrap_ver.asp "Bootstrap Tutorial") [REACT](/react/default.asp "React Tutorial") [MYSQL](/mysql/default.asp "MySQL Tutorial") [JQUERY](/jquery/default.asp "JQuery Tutorial") [EXCEL](/excel/index.php "Excel Tutorial") [XML](/xml/default.asp "XML Tutorial") [DJANGO](/django/index.php "Django Tutorial") [NUMPY](/python/numpy/default.asp "NumPy Tutorial") [PANDAS](/python/pandas/default.asp "Pandas Tutorial") [NODEJS](/nodejs/default.asp "Node.js Tutorial") [DSA](/dsa/index.php "DSA Tutorial") [TYPESCRIPT](/typescript/index.php "TypeScript Tutorial") [ANGULAR](/angular/default.asp "Angular.js Tutorial") [GIT](/git/default.asp "Git Tutorial") [POSTGRESQL](/postgresql/index.php "PostgreSQL Tutorial") [MONGODB](/mongodb/index.php "MongoDB Tutorial") [ASP](/asp/default.asp "ASP Tutorial") [AI](/ai/default.asp "A.I. Tutorial") [R](/r/default.asp "R Tutorial") [GO](/go/index.php "Go Tutorial") [KOTLIN](/kotlin/index.php "Kotlin Tutorial") [SASS](/sass/default.php "Sass Tutorial") [VUE](/vue/index.php "Vue.js Tutorial") [GEN AI](/gen_ai/index.php "Gen A.I. Tutorial") [SCIPY](/python/scipy/index.php "SciPy Tutorial") [CYBERSECURITY](/cybersecurity/index.php "Cyber security Tutorial") [DATA SCIENCE](/datascience/default.asp "Data science Tutorial") [INTRO TO PROGRAMMING](/programming/index.php "Introduction to Programming") [BASH](/bash/index.php "Bash Tutorial") [RUST](/rust/index.php "Rust Tutorial") [](javascript:void\(0\))
+
+## Python Tutorial
+
+[Python HOME](default.asp) [Python Intro](python_intro.asp) [Python Get Started](python_getstarted.asp) [Python Syntax](python_syntax.asp) [Python Comments](python_comments.asp) [Python Variables](python_variables.asp)
+
+[Python Variables](python_variables.asp) [Variable Names](python_variables_names.asp) [Assign Multiple Values](python_variables_multiple.asp) [Output Variables](python_variables_output.asp) [Global Variables](python_variables_global.asp) [Variable Exercises](python_variables_exercises.asp)
+
+[Python Data Types](python_datatypes.asp) [Python Numbers](python_numbers.asp) [Python Casting](python_casting.asp) [Python Strings](python_strings.asp)
+
+[Python Strings](python_strings.asp) [Slicing Strings](python_strings_slicing.asp) [Modify Strings](python_strings_modify.asp) [Concatenate Strings](python_strings_concatenate.asp) [Format Strings](python_strings_format.asp) [Escape Characters](python_strings_escape.asp) [String Methods](python_strings_methods.asp) [String Exercises](python_strings_exercises.asp)
+
+[Python Booleans](python_booleans.asp) [Python Operators](python_operators.asp) [Python Lists](python_lists.asp)
+
+[Python Lists](python_lists.asp) [Access List Items](python_lists_access.asp) [Change List Items](python_lists_change.asp) [Add List Items](python_lists_add.asp) [Remove List Items](python_lists_remove.asp) [Loop Lists](python_lists_loop.asp) [List Comprehension](python_lists_comprehension.asp) [Sort Lists](python_lists_sort.asp) [Copy Lists](python_lists_copy.asp) [Join Lists](python_lists_join.asp) [List Methods](python_lists_methods.asp) [List Exercises](python_lists_exercises.asp)
+
+[Python Tuples](python_tuples.asp)
+
+[Python Tuples](python_tuples.asp) [Access Tuples](python_tuples_access.asp) [Update Tuples](python_tuples_update.asp) [Unpack Tuples](python_tuples_unpack.asp) [Loop Tuples](python_tuples_loop.asp) [Join Tuples](python_tuples_join.asp) [Tuple Methods](python_tuples_methods.asp) [Tuple Exercises](python_tuples_exercises.asp)
+
+[Python Sets](python_sets.asp)
+
+[Python Sets](python_sets.asp) [Access Set Items](python_sets_access.asp) [Add Set Items](python_sets_add.asp) [Remove Set Items](python_sets_remove.asp) [Loop Sets](python_sets_loop.asp) [Join Sets](python_sets_join.asp) [Set Methods](python_sets_methods.asp) [Set Exercises](python_sets_exercises.asp)
+
+[Python Dictionaries](python_dictionaries.asp)
+
+[Python Dictionaries](python_dictionaries.asp) [Access Items](python_dictionaries_access.asp) [Change Items](python_dictionaries_change.asp) [Add Items](python_dictionaries_add.asp) [Remove Items](python_dictionaries_remove.asp) [Loop Dictionaries](python_dictionaries_loop.asp) [Copy Dictionaries](python_dictionaries_copy.asp) [Nested Dictionaries](python_dictionaries_nested.asp) [Dictionary Methods](python_dictionaries_methods.asp) [Dictionary Exercises](python_dictionaries_exercises.asp)
+
+[Python If...Else](python_conditions.asp) [Python Match](python_match.asp) [Python While Loops](python_while_loops.asp) [Python For Loops](python_for_loops.asp) [Python Functions](python_functions.asp) [Python Lambda](python_lambda.asp) [Python Arrays](python_arrays.asp) [Python OOP](python_oop.asp) [Python Classes/Objects](python_classes.asp) [Python Inheritance](python_inheritance.asp) [Python Iterators](python_iterators.asp) [Python Polymorphism](python_polymorphism.asp) [Python Scope](python_scope.asp) [Python Modules](python_modules.asp) [Python Dates](python_datetime.asp) [Python Math](python_math.asp) [Python JSON](python_json.asp) [Python RegEx](python_regex.asp) [Python PIP](python_pip.asp) [Python Try...Except](python_try_except.asp) [Python String Formatting](python_string_formatting.asp) [Python User Input](python_user_input.asp) [Python VirtualEnv](python_virtualenv.asp)   
+
+
+## File Handling
+
+[Python File Handling](python_file_handling.asp) [Python Read Files](python_file_open.asp) [Python Write/Create Files](python_file_write.asp) [Python Delete Files](python_file_remove.asp)   
+
+
+## Python Modules
+
+[NumPy Tutorial](numpy/default.asp) [Pandas Tutorial](pandas/default.asp) [SciPy Tutorial](scipy/index.php) [Django Tutorial](/django/index.php)   
+
+
+## Python Matplotlib
+
+[Matplotlib Intro](matplotlib_intro.asp) [Matplotlib Get Started](matplotlib_getting_started.asp) [Matplotlib Pyplot](matplotlib_pyplot.asp) [Matplotlib Plotting](matplotlib_plotting.asp) [Matplotlib Markers](matplotlib_markers.asp) [Matplotlib Line](matplotlib_line.asp) [Matplotlib Labels](matplotlib_labels.asp) [Matplotlib Grid](matplotlib_grid.asp) [Matplotlib Subplot](matplotlib_subplot.asp) [Matplotlib Scatter](matplotlib_scatter.asp) [Matplotlib Bars](matplotlib_bars.asp) [Matplotlib Histograms](matplotlib_histograms.asp) [Matplotlib Pie Charts](matplotlib_pie_charts.asp)   
+
+
+## Machine Learning
+
+[Getting Started](python_ml_getting_started.asp) [Mean Median Mode](python_ml_mean_median_mode.asp) [Standard Deviation](python_ml_standard_deviation.asp) [Percentile](python_ml_percentile.asp) [Data Distribution](python_ml_data_distribution.asp) [Normal Data Distribution](python_ml_n
+
+[... コンテンツが長すぎるため省略 ...]
+
+
+
+================================================================================
+サイト 5: https://github.com/python/cpython
+取得日時: 2025-08-21T12:11:14.444204
+画像数: 26
+--------------------------------------------------------------------------------
+
+# GitHub - python/cpython: The Python programming language
+
+**説明**: The Python programming language. Contribute to python/cpython development by creating an account on GitHub.
+
+[ python ](/python) / **[cpython](/python/cpython) ** Public
+
+  * ###  Uh oh! 
+
+There was an error while loading. [Please reload this page]().
+
+  * [ Notifications ](/login?return_to=%2Fpython%2Fcpython) You must be signed in to change notification settings
+  * [ Fork 32.6k ](/login?return_to=%2Fpython%2Fcpython)
+  * [ Star  68.5k ](/login?return_to=%2Fpython%2Fcpython)
+
+
+
+
+The Python programming language 
+
+[www.python.org](https://www.python.org "https://www.python.org")
+
+### License
+
+[ View license ](/python/cpython/blob/main/LICENSE)
+
+[ 68.5k stars ](/python/cpython/stargazers) [ 32.6k forks ](/python/cpython/forks) [ Branches ](/python/cpython/branches) [ Tags ](/python/cpython/tags) [ Activity ](/python/cpython/activity)
+
+[ Star  ](/login?return_to=%2Fpython%2Fcpython)
+
+[ Notifications ](/login?return_to=%2Fpython%2Fcpython) You must be signed in to change notification settings
+
+  * [ Code ](/python/cpython)
+  * [ Issues 5k+ ](/python/cpython/issues)
+  * [ Pull requests 2.1k ](/python/cpython/pulls)
+  * [ Actions ](/python/cpython/actions)
+  * [ Projects 28 ](/python/cpython/projects)
+  * [ Security Uh oh!  There was an error while loading. [Please reload this page](). ](/python/cpython/security)
+  * [ Insights ](/python/cpython/pulse)
+
+
+
+Additional navigation options
+
+  * [ Code  ](/python/cpython)
+  * [ Issues  ](/python/cpython/issues)
+  * [ Pull requests  ](/python/cpython/pulls)
+  * [ Actions  ](/python/cpython/actions)
+  * [ Projects  ](/python/cpython/projects)
+  * [ Security  ](/python/cpython/security)
+  * [ Insights  ](/python/cpython/pulse)
+
+
+
+# python/cpython
+
+main
+
+[Branches](/python/cpython/branches)[Tags](/python/cpython/tags)
+
+[](/python/cpython/branches)[](/python/cpython/tags)
+
+Go to file
+
+Code
+
+Open more actions menu
+
+## Folders and files
+
+Name| Name| Last commit message| Last commit date  
+---|---|---|---  
+  
+## Latest commit
+
+## History
+
+[128,121 Commits](/python/cpython/commits/main/)[](/python/cpython/commits/main/)  
+[.azure-pipelines](/python/cpython/tree/main/.azure-pipelines ".azure-pipelines")| [.azure-pipelines](/python/cpython/tree/main/.azure-pipelines ".azure-pipelines")|  |   
+[.devcontainer](/python/cpython/tree/main/.devcontainer ".devcontainer")| [.devcontainer](/python/cpython/tree/main/.devcontainer ".devcontainer")|  |   
+[.github](/python/cpython/tree/main/.github ".github")| [.github](/python/cpython/tree/main/.github ".github")|  |   
+[.well-known](/python/cpython/tree/main/.well-known ".well-known")| [.well-known](/python/cpython/tree/main/.well-known ".well-known")|  |   
+[Android](/python/cpython/tree/main/Android "Android")| [Android](/python/cpython/tree/main/Android "Android")|  |   
+[Doc](/python/cpython/tree/main/Doc "Doc")| [Doc](/python/cpython/tree/main/Doc "Doc")|  |   
+[Grammar](/python/cpython/tree/main/Grammar "Grammar")| [Grammar](/python/cpython/tree/main/Grammar "Grammar")|  |   
+[Include](/python/cpython/tree/main/Include "Include")| [Include](/python/cpython/tree/main/Include "Include")|  |   
+[InternalDocs](/python/cpython/tree/main/InternalDocs "InternalDocs")| [InternalDocs](/python/cpython/tree/main/InternalDocs "InternalDocs")|  |   
+[Lib](/python/cpython/tree/main/Lib "Lib")| [Lib](/python/cpython/tree/main/Lib "Lib")|  |   
+[Mac](/python/cpython/tree/main/Mac "Mac")| [Mac](/python/cpython/tree/main/Mac "Mac")|  |   
+[Misc](/python/cpython/tree/main/Misc "Misc")| [Misc](/python/cpython/tree/main/Misc "Misc")|  |   
+[Modules](/python/cpython/tree/main/Modules "Modules")| [Modules](/python/cpython/tree/main/Modules "Modules")|  |   
+[Objects](/python/cpython/tree/main/Objects "Objects")| [Objects](/python/cpython/tree/main/Objects "Objects")|  |   
+[PC](/python/cpython/tree/main/PC "PC")| [PC](/python/cpython/tree/main/PC "PC")|  |   
+[PCbuild](/python/cpython/tree/main/PCbuild "PCbuild")| [PCbuild](/python/cpython/tree/main/PCbuild "PCbuild")|  |   
+[Parser](/python/cpython/tree/main/Parser "Parser")| [Parser](/python/cpython/tree/main/Parser "Parser")|  |   
+[Programs](/python/cpython/tree/main/Programs "Programs")| [Programs](/python/cpython/tree/main/Programs "Programs")|  |   
+[Python](/python/cpython/tree/main/Python "Python")| [Python](/python/cpython/tree/main/Python "Python")|  |   
+[Tools](/python/cpython/tree/main/Tools "Tools")| [Tools](/python/cpython/tree/main/Tools "Tools")|  |   
+[iOS](/python/cpython/tree/main/iOS "iOS")| [iOS](/python/cpython/tree/main/iOS "iOS")|  |   
+[.coveragerc](/python/cpython/blob/main/.coveragerc ".coveragerc")| [.coveragerc](/python/cpython/blob/main/.coveragerc ".coveragerc")|  |   
+[.editorconfig](/python/cpython/blob/main/.editorconfig ".editorconfig")| [.editorconfig](/python/cpython/blob/main/.editorconfig ".editorconfig")|  |   
+[.gitattributes](/python/cpython/blob/main/.gitattributes ".gitattributes")| [.gitattributes](/python/cpython/blob/main/.gitattributes ".gitattributes")|  |   
+[.gitignore](/python/cpython/blob/main/.gitignore ".gitignore")| [.gitignore](/python/cpython/blob/main/.gitignore ".gitignore")|  |   
+[.mailmap](/python/cpython/blob/main/.mailmap ".mailmap")| [.mailmap](/python/cpython/blob/main/.mailmap ".mailmap")|  |   
+[.pre-commit-config.yaml](/python/cpython/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")| [.pre-commit-config.yaml](/python/cpython/blob/main/.pre-commit-config.yaml ".pre-commit-config.yaml")|  |   
+[.readthedocs.yml](/python/cpython/blob/main/.readthedocs.yml ".readthedocs.yml")| [.readthedocs.yml](/python/cpython/blob/main/.readthedocs.yml ".readthedocs.yml")|  |   
+[.ruff.toml](/python/cpython/blob/main/.ruff.toml ".ruff.toml")| [.ruff.toml](/python/cpython/blob/main/.ruff.toml ".ruff.toml")|  |   
+[LICENSE](/python/cpython/blob/main/LICENSE "LICENSE")| [LICENSE](/python/cpython/blob/main/LICENSE "LICENSE")|  |   
+[Makefile.pre.in](/python/cpython/blob/main/Makefile.pre.in "Makefile.pre.in")| [Makefile.pre.in](/python/cpython/blob/main/Makefile.pre.in "Makefile.pre.in")|  |   
+[README.rst](/python/cpython/blob/main/README.rst "README.rst")| [README.rst](/python/cpython/blob/main/README.rst "README.rst")|  |   
+[aclocal.m4](/python/cpython/blob/main/aclocal.m4 "aclocal.m4")| [aclocal.m4](/python/cpython/blob/main/aclocal.m4 "aclocal.m4")|  |   
+[config.guess](/python/cpython/blob/main/config.guess "config.guess")| [config.guess](/python/cpython/blob/main/config.guess "config.guess")|  |   
+[config.sub](/python/cpython/blob/main/config.sub "config.sub")| [config.sub](/python/cpython/blob/main/config.sub "config.sub")|  |   
+[configure](/python/cpython/blob/main/configure "configure")| [configure](/python/cpython/blob/main/configure "configure")|  |   
+[configure.ac](/python/cpython/blob/main/configure.ac "configure.ac")| [configure.ac](/python/cpython/blob/main/configure.ac "configure.ac")|  |   
+[install-sh](/python/cpython/blob/main/install-sh "install-sh")| [install-sh](/python/cpython/blob/main/install-sh "install-sh")|  |   
+[pyconfig.h.in](/python/cpython/blob/main/pyconfig.h.in "pyconfig.h.in")| [pyconfig.h.in](/python/cpython/blob/main/pyconfig.h.in "pyconfig.h.in")|  |   
+View all files  
+  
+## Repository files navigation
+
+  * README
+  * Code of conduct
+  * Contributing
+  * License
+  * Security
+
+
+
+# This is Python version 3.15.0 alpha 0
+
+[![CPython build status on GitHub Actions](https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python/cpython/actions) [![CPython build status on Azure DevOps](https://camo.githubusercontent.com/83187fc220f76c855b707e7f057eeaa6ff0f4fb3f1d8be046341257e9eee162b/68747470733a2f2f6465762e617a7572652e636f6d2f707974686f6e2f63707974686f6e2f5f617069732f6275696c642f7374617475732f417a757265253230506970656c696e657325323043493f6272616e63684e616d653d6d61696e)](https://dev.azure.com/python/cpython/_build/latest?definitionId=4&branchName=main) [![Python Discourse chat](https://camo.githubusercontent.com/5a3a3ba68cd6219d0e838da60b71c30a039491c1c446782bdefb2121cb31f1be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f757273652d6a6f696e5f636861742d627269676874677265656e2e737667) ](https://discuss.python.org/)
+
+Copyright © 2001 Python Software Foundation. All rights reserved.
+
+See the end of this file for further copyright and license information.
+
+Contents
+
+  * General Information
+  * Contributing to CPython
+  * Using Python
+  * Build Instructions
+    * Profile Guided Optimization
+    * Link Time Optimization
+  * What's New
+  * Documentation
+  * Testing
+  * Installing multiple versions
+  * Release Schedule
+  * Copyright and License Information
+
+
+
+## General Information
+
+  * Website: <https://www.python.org>
+  * Source code: <https://github.com/python/cpython>
+  * Issue tracker: <https://github.com/python/cpython/issues>
+  * Documentation: <https://docs.python.org>
+  * Developer's Guide: <https://devguide.python.org/>
+
+
+
+## Contributing to CPython
+
+For more complete instructions on contributing to CPython development, see the [Developer Guide](https://devguide.python.org/).
+
+## Using Python
+
+Installable Python kits, and information about using Python, are available at [python.org](https://www.python.org/).
+
+## Build Instructions
+
+On Unix, Linux, BSD, macOS, and Cygwin:
+    
+    
+    ./configure
+    make
+    make test
+    sudo make install
+    
+
+This will install Python as `python3`.
+
+You can pass many options to the configure script; run `./configure --help` to find out more. On macOS case-insensitive file systems and on Cygwin, the executable is called `python.exe`; elsewhere it's just `python`.
+
+Building a complete Python installation requires the use of various additional third-party libraries, depending on your build platform and configure options. Not all standard library modules are buildable or usable on all platforms. Refer to the [Install dependencies](https://devguide.python.org/getting-started/setup-building.html#build-dependencies) section of the [Developer Guide](https://devguide.python.org/) for current detailed information on dependencies for various Linux distributions and macOS.
+
+On macOS, there are additional configure and build options related to macOS framework and universal builds. Refer to [Mac/README.rst](https://github.com/python/cpython/blob/main/Mac/README.rst).
+
+On Windows, see [PCbuild/readme.txt](https://github.com/python/cpython/blob/main/PCbuild/readme.txt).
+
+To build Windows installer, see [Tools/msi/README.txt](https://github.com/python/cpython/blob/main/Tools/msi/README.txt).
+
+If you wish, you can create a subdirectory and invoke configure from there. For example:
+    
+    
+    mkdir debug
+    cd debug
+    ../configure --with-pydebug
+    make
+    make test
+    
+
+(This will fail if you _also_ built at the top-level directory. You should do a `make clean` at the top-level first.)
+
+To get an optimized build of Python, `configure --enable-optimizations` before you run `make`. This sets the default make targets up to enable Profile Guided Optimization (PGO) and may be used to auto-enable Link Time Optimization (LTO) on some platforms. For more details, see the sections below.
+
+### Profile Guided Optimization
+
+PGO takes advantage of recent versions of the GCC or Clang compilers. If used, either via `configure --enable-optimizations` or by manually running `make profile-opt` regardless of configure flags, the optimized build process will perform the following steps:
+
+The entire Python directory is cleaned of temporary files that may have resulted from a previous compilation.
+
+An instrumented version of the interpreter is built, using suitable compiler flags for each flavor. Note that this is just an intermediary step. The binary resulting from this step is not good for real-life workloads as it has profiling instructions embedded inside.
+
+After the instrumented interpreter is built, the Makefile will run a training workload. This is necessary in order to profile the interpreter's execution. Note also that any output, both stdout and stderr, that may appear at this step is suppressed.
+
+The final step is to build the actual interpreter, using the information collected from the instrumented one. The end result will be a Python binary that is optimized; suitable for distribution or production installation.
+
+### Link Time Optimization
+
+Enabled via configure's `--with-lto` flag. LTO takes advantage of the ability of recent compiler toolchains to optimize across the otherwise arbitrary `.o` file boundary when building final executables or shared libraries for additional performance gains.
+
+## What's New
+
+We have a comprehensive overview of the changes in the [What's new in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html) document. For a more detailed change log, read [Misc/NEWS](https://github.com/python/cpython/tree/main/Misc/NEWS.d), but a full accounting of changes can only be gleaned from the [commit history](https://github.com/python/cpython/commits/main).
+
+If you want to install multiple versions of Python, see the section below entitled "Installing multiple versions".
+
+## Documentation
+
+[Documentation for Python 3.15](https://docs.python.org/3.15/) is online, updated daily.
+
+It can also be downloaded in many formats for faster access. The documentation is downloadable in HTML, PDF, and reStructuredText formats; the latter version is primarily for documentation authors, translators, and people with special formatting requirements.
+
+For information about building Python's documentation, refer to [Doc/README.rst](https://github.com/python/cpython/blob/main/Doc/README.rst).
+
+## Testing
+
+To test the interpreter, type `make test` in the top-level directory. The test set produces some output. You can generally ignore the messages about skipped tests due to optional features which can't be imported. If a message is printed about a failed test or a traceback or core dump is produced, something is wrong.
+
+By default, tests are prevented from overusing resources like disk space and memory. To enable these tests, run `make buildbottest`.
+
+If any tests fail, you can re-run the failing test(s) in verbose mode. For example, if `test_os` and `test_gdb` failed, you can run:
+    
+    
+    make test TESTOPTS="-v test_os test_gdb"
+    
+
+If the failure persists and appears to be a problem with Python rather than your environment, you can [file a bug report](https://github.com/python/cpython/issues) and include relevant output from that command to show the issue.
+
+See [Running & Writing Tests](https://devguide.python.org/testing/run-write-tests.html) for more on running tests.
+
+## Installing multiple versions
+
+On Unix and Mac systems if you intend to install multiple versions of Python using the same installation prefix (`--prefix` argument to the configure script) you must take care that your primary python executable is not overwritten by the installation of a different version. All files and directories installed using `make altinstall` contain the major and minor version and can thus live side-by-side. `make install` also creates `${prefix}/bin/python3` which refers to `${prefix}/bin/python3.X`. If you intend to install multiple versions using the same prefix you must decide which version (if any) is your "primary" version. Install that version using `make install`. Install all other versions using `make altinstall`.
+
+For example, if you want to install Python 2.7, 3.6, and 3.15 with 3.15 being the primary version, you would execute `make install` in your 3.15 build directory and `make altinstall` in the others.
+
+## Release Schedule
+
+See [PEP 790](https://peps.python.org/pep-0790/) for Python 3.15 release details.
+
+## Copyright and License Information
+
+Copyright © 2001 Python Software Foundation. All rights reserved.
+
+Copyright © 2000 BeOpen.com. All rights reserved.
+
+Copyright © 1995-2001 Corporation for National Research Initiatives. All rights reserved.
+
+Copyright © 1991-1995 Stichting Mathematisch Centrum. All rights reserved.
+
+See the [LICENSE](https://github.com/python/cpython/blob/main/LICENSE) for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
+
+This Python distribution contains _no_ GNU General Public License (GPL) code, so it may be used in proprietary projects. There are interfaces to some GNU code but these are entirely optional.
+
+All trademarks referenced herein are property of their respective holders.
+
+## About
+
+The Python programming language 
+
+[www.python.org](https://www.python.org "https://www.python.org")
+
+### Resources
+
+Readme 
+
+### License
+
+View license 
+
+### Code of conduct
+
+Code of conduct 
+
+### Contributing
+
+Contributing 
+
+### Security policy
+
+Security policy 
+
+###  Uh oh! 
+
+There was an error while loading. [Please reload this page]().
+
+[ Activity](/python/cpython/activity)
+
+[ Custom properties](/python/cpython/custom-properties)
+
+### Stars
+
+[ **68.5k** stars](/python/cpython/stargazers)
+
+### Watchers
+
+[ **1.5k** watching](/python/cpython/watchers)
+
+### Forks
+
+[ **32.6k** forks](/python/cpython/forks)
+
+[ Report repository ](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fpython%2Fcpython&report=python+%28user%29)
+
+##  [Releases](/python/cpython/releases)
+
+[ 624 tags ](/python/cpython/tags)
+
+## Sponsor this project
+
+  * 
+
+
+###  Uh oh! 
+
+There was an error while loading. [Please reload this page]().
+
+  * <https://www.python.org/psf/donations/python-dev/>
+
+
+
+[Learn more about GitHub Sponsors](/sponsors)
+
+##  [Packages 0](/orgs/python/packages?repo_name=cpython)
+
+No packages published   
+
+
+##  [Used by 629k](/python/cpython/network/dependents)
+
+[
+
+  * ![@Endor-Solutions-Architecture](https://avatars.githubusercontent.com/u/147847290?s=64&v=4)
+  * ![@MN-Guan](https://avatars.githubusercontent.com/u/103345472?s=64&v=4)
+  * ![@ccluri](https://avatars.githubusercontent.com/u/546703?s=64&v=4)
+  * ![@AndyShor](https://avatars.githubusercontent.com/u/56277115?s=64&v=4)
+  * ![@Imran-Roshan](https://avatars.githubusercontent.com/u/97280134?s=64&v=4)
+  * ![@SimonQS](https://avatars.githubusercontent.com/u/125163533?s=64&v=4)
+  * ![@ajperry2](https://avatars.githubusercontent.com/u/40918666?s=64&v=4)
+  * ![@NSLS2](https://avatars.githubusercontent.com/u/99744927?s=64&v=4)
+
+\+ 628,759  ](/python/cpython/network/dependents)
+
+##  [Contributors 3,174](/python/cpython/graphs/contributors)
+
+  * [ ![@gvanrossum](https://avatars.githubusercontent.com/u/2894642?s=64&v=4) ](https://github.com/gvanrossum)
+  * [ ![@vstinner](https://avatars.githubusercontent.com/u/194129?s=64&v=4) ](https://github.com/vstinner)
+  * [ ![@benjaminp](https://avatars.githubusercontent.com/u/219470?s=64&v=4) ](https://github.com/benjaminp)
+  * [ ![@birkenfeld](https://avatars.githubusercontent.com/u/144359?s=64&v=4) ](https://github.com/birkenfeld)
+  * [ ![@freddrake](https://avatars.githubusercontent.com/u/588792?s=64&v=4) ](https://github.com/freddrake)
+  * [ ![@serhiy-storchaka](https://avatars.githubusercontent.com/u/3659035?s=64&v=4) ](https://github.com/serhiy-storchaka)
+  * [ ![@rhettinger](https://avatars.githubusercontent.com/u/1623689?s=64&v=4) ](https://github.com/rhettinger)
+  * [ ![@pitrou](https://avatars.githubusercontent.com/u/1721820?s=64&v=4) ](https://github.com/pitrou)
+  * [ ![@jackjansen](https://avatars.githubusercontent.com/u/4665100?s=64&v=4) ](https://github.com/jackjansen)
+  * [ ![@loewis](https://avatars.githubusercontent.com/u/74179?s=64&v=4) ](https://github.com/loewis)
+  * [ ![@tim-one](https://avatars.githubusercontent.com/u/14852019?s=64&v=4) ](https://github.com/tim-one)
+  * [ ![@brettcannon](https://avatars.githubusercontent.com/u/54418?s=64&v=4) ](https://github.com/brettcannon)
+  * [ ![@akuchling](https://avatars.githubusercontent.com/u/204654?s=64&v=4) ](https://github.com/akuchling)
+  * [ ![@warsaw](https://avatars.githubusercontent.com/u/210184?s=64&v=4) ](https://github.com/warsaw)
+
+
+
+[\+ 3,160 contributors](/python/cpython/graphs/contributors)
+
+## Languages
+
+  * [ Python 62.2% ](/python/cpython/search?l=python)
+  * [ C 35.9% ](/python/cpython/search?l=c)
+  * [ C++ 0.7% ](/python/cpython/search?l=c%2B%2B)
+  * [ M4 0.4% ](/python/cpython/search?l=m4)
+  * [ HTML 0.3% ](/python/cpython/search?l=html)
+  * [ Batchfile 0.1% ](/python/cpython/search?l=batchfile)
+  * Other 0.4%
+
+
+
+

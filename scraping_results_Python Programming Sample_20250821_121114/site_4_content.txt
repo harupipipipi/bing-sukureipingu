@@ -1,0 +1,953 @@
+URL: https://www.w3schools.com/python/
+取得日時: 2025-08-21T12:11:14.444197
+================================================================================
+
+# Python Tutorial
+
+[ __](https://www.w3schools.com "Home") [ Tutorials ____](javascript:void\(0\) "Tutorials and References") [ Exercises ____](javascript:void\(0\) "Exercises and Quizzes") [ Certificates ____](javascript:void\(0\) "Certificates") [ Services ____](javascript:void\(0\) "Our Services") [ Menu ____](javascript:void\(0\) "Menu")
+
+Search field 
+
+_×_
+
+[ __ ](javascript:void\(0\); "Toggle light/dark mode")
+
+Sign In
+
+[ ★ +1 ](https://profile.w3schools.com/log-in "Your W3Schools Profile") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog "W3Schools Certificates") [ Upgrade ](https://order.w3schools.com/plans "Become a PLUS user and unlock powerful features") [ For Teachers ](/academy/index.php "Contact us about W3Schools Academy for educational institutions") [ Spaces ](/spaces/index.php "Get Your Own Website With W3Schools Spaces") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog "W3Schools Certificates") [ Upgrade ](https://order.w3schools.com/plans "Get personalized learning journey based on your current skills and goals") [ For Teachers ](/academy/index.php "Contact us about W3Schools Academy for educational institutions") [ Spaces ](https://spaces.w3schools.com/space/ "Go to Your W3Schools Space")
+
+[ My W3Schools ](https://pathfinder.w3schools.com "My W3Schools")
+
+Tutorials __
+
+Exercises __
+
+Certificates __
+
+Services __
+
+[ Spaces ](/spaces/index.php "Get Your Own Website With W3Schools Spaces") [ Get Certified ](https://campus.w3schools.com/collections/course-catalog "W3Schools Certificates") [ Plus ](https://order.w3schools.com/plans "Become a PLUS user and unlock powerful features") [ Academy ](/academy/index.php "W3Schools Academy") [ Logout ](https://profile.w3schools.com/logout "Logout")
+
+[ __](https://www.youtube.com/@w3schools "W3Schools on YouTube") [ __ ](https://www.linkedin.com/company/w3schools.com/ "W3Schools on LinkedIn") [ __ ](https://discord.com/invite/w3schools "Join the W3schools community on Discord") [ __ ](https://www.facebook.com/w3schoolscom/ "W3Schools on Facebook") [ __ ](https://www.instagram.com/w3schools.com_official/ "W3Schools on Instagram")
+
+×
+
+## **Tutorials**
+
+Tutorials filter input 
+
+×
+
+###  HTML and CSS 
+
+[ Learn HTML ](/html/default.asp "HTML Tutorial") [ Tutorial ](/html/default.asp "HTML Tutorial") [ Reference ](/tags/default.asp "HTML Reference")
+
+[ Learn CSS ](/css/default.asp "CSS Tutorial") [ Tutorial ](/css/default.asp "CSS Tutorial") [ Reference ](/cssref/default.asp "CSS Reference")
+
+[ Learn RWD ](/css/css_rwd_intro.asp "Responsive Web Design Tutorial") [ Tutorial ](/css/css_rwd_intro.asp "Responsive Web Design Tutorial")
+
+[ Learn Bootstrap ](/bootstrap/bootstrap_ver.asp "Bootstrap Tutorials") [ Overview ](/bootstrap/bootstrap_ver.asp "Bootstrap Tutorials")
+
+[ Learn W3.CSS ](/w3css/default.asp "W3.CSS Tutorial") [ Tutorial ](/w3css/default.asp "W3.CSS Tutorial") [ Reference ](/w3css/w3css_references.asp "W3.CSS Reference")
+
+[ Learn Sass ](/sass/default.php "SASS Tutorial") [ Tutorial ](/sass/default.php "SASS Tutorial") [ Reference ](/sass/sass_functions_string.php "SASS Reference")
+
+[ Learn Colors ](/colors/default.asp "Colors Tutorial") [ Tutorial ](/colors/default.asp "Colors Tutorial") [ Reference ](/colors/colors_fs595.asp "Colors Reference")
+
+[ Learn Icons ](/icons/default.asp "Icons Tutorial") [ Tutorial ](/icons/default.asp "Icons Tutorial") [ Reference ](/icons/icons_reference.asp "Icons Reference")
+
+[ Learn SVG ](/graphics/svg_intro.asp "SVG Tutorial") [ Tutorial ](/graphics/svg_intro.asp "SVG Tutorial") [ Reference ](/graphics/svg_reference.asp "SVG Reference")
+
+[ Learn Canvas ](/graphics/canvas_intro.asp "Canvas Tutorial") [ Tutorial ](/graphics/canvas_intro.asp "Canvas Tutorial") [ Reference ](/graphics/canvas_reference.asp "Canvas Reference")
+
+[ Learn Graphics ](/graphics/default.asp "Graphics Tutorial") [ Tutorial ](/graphics/default.asp "Graphics Tutorial")
+
+[ Learn UTF-8 and Emojis ](/charsets/default.asp "UTF-8 and Emojis Reference") [ Reference ](/charsets/default.asp "UTF-8 and Emojis Reference")
+
+[ Learn How To ](/howto/default.asp "How To - Code Snippets") [ Tutorial ](/howto/default.asp "How To - Code Snippets")
+
+###  Data Analytics 
+
+[ Learn AI ](/ai/default.asp "Artificial Intelligence Tutorial") [ Tutorial ](/ai/default.asp "Artificial Intelligence Tutorial")
+
+[ Learn Generative AI ](/gen_ai/index.php "Generative AI Tutorial") [ Tutorial ](/gen_ai/index.php "Generative AI Tutorial")
+
+[ Learn ChatGPT-3.5 ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5 Tutorial") [ Tutorial ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5  Tutorial")
+
+[ Learn ChatGPT-4 ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial") [ Tutorial ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial")
+
+[ Learn Google Bard ](/gen_ai/bard/index.php "Google Bard Tutorial") [ Tutorial ](/gen_ai/bard/index.php "Google Bard Tutorial")
+
+[ Learn Machine Learning ](/python/python_ml_getting_started.asp "Machine Learning Tutorial") [ Tutorial ](/python/python_ml_getting_started.asp "Machine Learning Tutorial")
+
+[ Learn DSA ](/dsa/index.php "DSA - Data Structures and Algorithms") [ Tutorial ](/dsa/index.php "DSA - Data Structures and Algorithms")
+
+[ Learn Data Science ](/datascience/default.asp "Data Science Tutorial") [ Tutorial ](/datascience/default.asp "Data Science Tutorial")
+
+[ Learn NumPy ](/python/numpy/default.asp "NumPy Tutorial") [ Tutorial ](/python/numpy/default.asp "NumPy Tutorial")
+
+[ Learn Pandas ](/python/pandas/default.asp "Pandas Tutorial") [ Tutorial ](/python/pandas/default.asp "Pandas Tutorial")
+
+[ Learn SciPy ](/python/scipy/index.php "SciPy Tutorial") [ Tutorial ](/python/scipy/index.php "SciPy Tutorial")
+
+[ Learn Matplotlib ](/python/matplotlib_intro.asp "Matplotlib Tutorial") [ Tutorial ](/python/matplotlib_intro.asp "Matplotlib Tutorial")
+
+[ Learn Statistics ](/statistics/index.php "Statistics Tutorial") [ Tutorial ](/statistics/index.php "Statistics Tutorial")
+
+[ Learn Excel ](/excel/index.php "Excel Tutorial") [ Tutorial ](/excel/index.php "Excel Tutorial")
+
+[ Learn Google Sheets ](/googlesheets/index.php "Google Sheets Tutorial") [ Tutorial ](/googlesheets/index.php "Google Sheets Tutorial")
+
+###  Web Building 
+
+[ Create a Website  HOT!  ](/spaces/index.php "Get Your Own Website With W3shools Spaces")
+
+[ Create a Server NEW ](/spaces/index.php "Get Your Own Server With W3shools Spaces")
+
+[ Where To Start ](/where_to_start.asp "Where To Start - Web Development")
+
+[ Web Templates ](/w3css/w3css_templates.asp "Free Web Templates")
+
+[ Web Statistics ](/browsers/default.asp "Web Statistics")
+
+[ Web Certificates ](https://campus.w3schools.com "Certificates")
+
+[ Web Development ](/whatis/default.asp "Web Development Roadmaps")
+
+[ Introduction to Programming ](/programming/index.php "Introduction to Programming")
+
+[ Code Editor ](/tryit/default.asp "Try it - Code Editor")
+
+[ Test Your Typing Speed ](/typingspeed/default.asp "Test Your Typing Speed")
+
+[ Play a Code Game ](/codegame/index.html "Play a Code Game")
+
+[ Cyber Security ](/cybersecurity/index.php "Cyber Security Tutorial")
+
+[ Accessibility ](/accessibility/index.php "Accessibility Security Tutorial")
+
+[ Join our Newsletter ](https://campus.w3schools.com/pages/newsletter "W3Schools Newsletter")
+
+###  JavaScript 
+
+[ Learn JavaScript ](/js/default.asp "JavaScript Tutorial") [ Tutorial ](/js/default.asp "JavaScript Tutorial") [ Reference ](/jsref/default.asp "JavaScript Reference")
+
+[ Learn React ](/react/default.asp "React Tutorial") [ Tutorial ](/react/default.asp "React Tutorial")
+
+[ Learn jQuery ](/jquery/default.asp "jQuery Tutorial") [ Tutorial ](/jquery/default.asp "jQuery Tutorial") [ Reference ](/jquery/jquery_ref_overview.asp "jQuery Reference")
+
+[ Learn Vue ](/vue/index.php "Vue Tutorial") [ Tutorial ](/vue/index.php "Vue Tutorial") [ Reference ](/vue/vue_ref_builtin-attributes.php "Vue Reference")
+
+[ Learn AngularJS ](/angular/default.asp "Angular Tutorial") [ Tutorial ](/angular/default.asp "Angular Tutorial") [ Reference ](/angular/angular_ref_directives.asp "Angular Reference")
+
+[ Learn JSON ](/js/js_json_intro.asp "JSON Tutorial") [ Tutorial ](/js/js_json_intro.asp "JSON Tutorial") [ Reference ](/jsref/jsref_obj_json.asp "JSON Reference")
+
+[ Learn AJAX ](/js/js_ajax_intro.asp "AJAX Tutorial") [ Tutorial ](/js/js_ajax_intro.asp "AJAX Tutorial")
+
+[ Learn AppML ](/appml/default.asp "AppML Tutorial") [ Tutorial ](/appml/default.asp "AppML Tutorial") [ Reference ](/appml/appml_reference.asp "AppML Reference")
+
+[ Learn W3.JS ](/w3js/default.asp "W3.JS Tutorial") [ Tutorial ](/w3js/default.asp "W3.JS Tutorial") [ Reference ](/w3js/w3js_references.asp "W3.JS Reference")
+
+###  Web Building 
+
+[ Create a Website  HOT!  ](/spaces/index.php "Get Your Own Website With W3shools Spaces")
+
+[ Create a Server NEW ](/spaces/index.php "Get Your Own Server With W3shools Spaces")
+
+[ Where To Start ](/where_to_start.asp "Where To Start - Web Development")
+
+[ Web Templates ](/w3css/w3css_templates.asp "Free Web Templates")
+
+[ Web Statistics ](/browsers/default.asp "Web Statistics")
+
+[ Web Certificates ](https://campus.w3schools.com "Certificates")
+
+[ Web Development ](/whatis/default.asp "Web Development Roadmaps")
+
+[ Introduction to Programming ](/programming/index.php "Introduction to Programming")
+
+[ Code Editor ](/tryit/default.asp "Try it - Code Editor")
+
+[ Test Your Typing Speed ](/typingspeed/default.asp "Test Your Typing Speed")
+
+[ Play a Code Game ](/codegame/index.html "Play a Code Game")
+
+[ Cyber Security ](/cybersecurity/index.php "Cyber Security Tutorial")
+
+[ Accessibility ](/accessibility/index.php "Accessibility Security Tutorial")
+
+[ Join our Newsletter ](https://campus.w3schools.com/pages/newsletter "W3Schools Newsletter")
+
+###  Backend 
+
+[ Learn Python ](/python/default.asp "Python Tutorial") [ Tutorial ](/python/default.asp "Python Tutorial") [ Reference ](/python/python_reference.asp "Python Reference")
+
+[ Learn SQL ](/sql/default.asp "SQL Tutorial") [ Tutorial ](/sql/default.asp "SQL Tutorial") [ Reference ](/sql/sql_ref_keywords.asp "SQL Reference")
+
+[ Learn MySQL ](/mysql/default.asp "MySQL Tutorial") [ Tutorial ](/mysql/default.asp "MySQL Tutorial") [ Reference ](/mysql/mysql_datatypes.asp "MySQL Reference")
+
+[ Learn PHP ](/php/default.asp "PHP Tutorial") [ Tutorial ](/php/default.asp "PHP Tutorial") [ Reference ](/php/php_ref_overview.asp "PHP Reference")
+
+[ Learn Java ](/java/default.asp "Java Tutorial") [ Tutorial ](/java/default.asp "Java Tutorial") [ Reference ](/java/java_ref_reference.asp "Java Reference")
+
+[ Learn C ](/c/index.php "C Tutorial") [ Tutorial ](/c/index.php "C Tutorial") [ Reference ](/c/c_ref_reference.php "C Reference")
+
+[ Learn C++ ](/cpp/default.asp "C++ Tutorial") [ Tutorial ](/cpp/default.asp "C++ Tutorial") [ Reference ](/cpp/cpp_ref_reference.asp "C++ Reference")
+
+[ Learn C# ](/cs/index.php "C# Tutorial") [ Tutorial ](/cs/index.php "C# Tutorial")
+
+[ Learn R ](/r/default.asp "R Tutorial") [ Tutorial ](/r/default.asp "R Tutorial")
+
+[ Learn Kotlin ](/kotlin/index.php "Kotlin Tutorial") [ Tutorial ](/kotlin/index.php "Kotlin Tutorial")
+
+[ Learn Rust ](/rust/index.php "Rust Tutorial") [ Tutorial ](/rust/index.php "Rust Tutorial")
+
+[ Learn Go ](/go/index.php "Go Tutorial") [ Tutorial ](/go/index.php "Go Tutorial")
+
+[ Learn Django ](/django/index.php "Django Tutorial") [ Tutorial ](/django/index.php "Django Tutorial") [ Reference ](/django/django_ref_template_tags.php "Django Reference")
+
+[ Learn PostgreSQL ](/postgresql/index.php "PostgreSQL Tutorial") [ Tutorial ](/postgresql/index.php "PostgreSQL Tutorial")
+
+[ Learn TypeScript ](/typescript/index.php "TypeScript Tutorial") [ Tutorial ](/typescript/index.php "TypeScript Reference")
+
+[ Learn ASP ](/asp/default.asp "ASP Tutorial") [ Tutorial ](/asp/default.asp "ASP Tutorial") [ Reference ](/asp/asp_ref_vbscript_functions.asp "ASP Reference")
+
+[ Learn Node.js ](/nodejs/default.asp "Node.js Tutorial") [ Tutorial ](/nodejs/default.asp "Node.js Tutorial") [ Reference ](/nodejs/ref_modules.asp "Node.js Reference")
+
+[ Learn Raspberry Pi ](/nodejs/nodejs_raspberrypi.asp "Raspberry Pi Tutorial") [ Tutorial ](/nodejs/nodejs_raspberrypi.asp "Raspberry Pi Tutorial")
+
+[ Learn Git ](/git/default.asp "Git Tutorial") [ Tutorial ](/git/default.asp "Git Tutorial")
+
+[ Learn Bash ](/bash/index.php "Bash Tutorial") [ Tutorial ](/bash/index.php "Bash Tutorial")
+
+[ Learn MongoDB ](/mongodb/index.php "MongoDB Tutorial") [ Tutorial ](/mongodb/index.php "MongoDB Tutorial")
+
+[ Learn XML ](/xml/default.asp "XML Tutorial") [ Tutorial ](/xml/default.asp "XML Tutorial") [ Reference ](/xml/dom_nodetype.asp "XML Reference")
+
+###  Data Analytics 
+
+[ Learn AI ](/ai/default.asp "Artificial Intelligence Tutorial") [ Tutorial ](/ai/default.asp "Artificial Intelligence Tutorial")
+
+[ Learn Generative AI ](/gen_ai/index.php "Generative AI Tutorial") [ Tutorial ](/gen_ai/index.php "Generative AI Tutorial")
+
+[ Learn ChatGPT-3.5 ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5 Tutorial") [ Tutorial ](/gen_ai/chatgpt-3-5/index.php "ChatGPT-3.5  Tutorial")
+
+[ Learn ChatGPT-4 ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial") [ Tutorial ](/gen_ai/chatgpt-4/index.php "ChatGPT-4 Tutorial")
+
+[ Learn Google Bard ](/gen_ai/bard/index.php "Google Bard Tutorial") [ Tutorial ](/gen_ai/bard/index.php "Google Bard Tutorial")
+
+[ Learn Machine Learning ](/python/python_ml_getting_started.asp "Machine Learning Tutorial") [ Tutorial ](/python/python_ml_getting_started.asp "Machine Learning Tutorial")
+
+[ Learn DSA ](/dsa/index.php "DSA - Data Structures and Algorithms") [ Tutorial ](/dsa/index.php "DSA - Data Structures and Algorithms ")
+
+[ Learn Data Science ](/datascience/default.asp "Data Science Tutorial") [ Tutorial ](/datascience/default.asp "Data Science Tutorial")
+
+[ Learn NumPy ](/python/numpy/default.asp "NumPy Tutorial") [ Tutorial ](/python/numpy/default.asp "NumPy Tutorial")
+
+[ Learn Pandas ](/python/pandas/default.asp "Pandas Tutorial") [ Tutorial ](/python/pandas/default.asp "Pandas Tutorial")
+
+[ Learn SciPy ](/python/scipy/index.php "SciPy Tutorial") [ Tutorial ](/python/scipy/index.php "SciPy Tutorial")
+
+[ Learn Matplotlib ](/python/matplotlib_intro.asp "Matplotlib Tutorial") [ Tutorial ](/python/matplotlib_intro.asp "Matplotlib Tutorial")
+
+[ Learn Statistics ](/statistics/index.php "Statistics Tutorial") [ Tutorial ](/statistics/index.php "Statistics Tutorial")
+
+[ Learn Excel ](/excel/index.php "Excel Tutorial") [ Tutorial ](/excel/index.php "Excel Tutorial")
+
+[ Learn Google Sheets ](/googlesheets/index.php "Google Sheets Tutorial") [ Tutorial ](/googlesheets/index.php "Google Sheets Tutorial")
+
+###  Web Building 
+
+[ Create a Website  HOT!  ](/spaces/index.php "Get Your Own Website With W3shools Spaces")
+
+[ Create a Server NEW ](/spaces/index.php "Get Your Own Server With W3shools Spaces")
+
+[ Where To Start ](/where_to_start.asp "Where To Start - Web Development")
+
+[ Web Templates ](/w3css/w3css_templates.asp "Free Web Templates")
+
+[ Web Statistics ](/browsers/default.asp "Web Statistics")
+
+[ Web Certificates ](https://campus.w3schools.com "Certificates")
+
+[ Web Development ](/whatis/default.asp "Web Development Roadmaps")
+
+[ Introduction to Programming ](/programming/index.php "Introduction to Programming")
+
+[ Code Editor ](/tryit/default.asp "Try it - Code Editor")
+
+[ Test Your Typing Speed ](/typingspeed/default.asp "Test Your Typing Speed")
+
+[ Play a Code Game ](/codegame/index.html "Play a Code Game")
+
+[ Cyber Security ](/cybersecurity/index.php "Cyber Security Tutorial")
+
+[ Accessibility ](/accessibility/index.php "Accessibility Security Tutorial")
+
+[ Join our Newsletter ](https://campus.w3schools.com/pages/newsletter "W3Schools Newsletter")
+
+  
+
+
+×
+
+## **Exercises**
+
+Excercises filter input 
+
+×
+
+###  HTML and CSS 
+
+[ HTML ](/html/html_exercises.asp "HTML Exercises") [ Exercise ](/html/html_exercises.asp "HTML Exercises") [ Quiz ](/html/html_quiz.asp "HTML Quizzes")
+
+[ CSS ](/css/css_exercises.asp "CSS Exercises") [ Exercise ](/css/css_exercises.asp "CSS Exercises") [ Quiz ](/css/css_quiz.asp "CSS Quizzes")
+
+[ Bootstrap 3 ](/bootstrap/bootstrap_exercises.asp "Bootstrap 3 Exercises") [ Exercise ](/bootstrap/bootstrap_exercises.asp "Bootstrap 3 Exercises") [ Quiz ](/bootstrap/bootstrap_quiz.asp "Bootstrap 3 Quizzes")
+
+[ Bootstrap 4 ](/bootstrap4/bootstrap_exercises.asp "Bootstrap 4 Exercises") [ Exercise ](/bootstrap4/bootstrap_exercises.asp "Bootstrap 4 Exercises") [ Quiz ](/bootstrap4/bootstrap_quiz.asp "Bootstrap 4 Quizzes")
+
+[ Bootstrap 5 ](/bootstrap5/bootstrap_exercises.php "Bootstrap 5 Exercises") [ Exercise ](/bootstrap5/bootstrap_exercises.php "Bootstrap 5 Exercises") [ Quiz ](/bootstrap5/bootstrap_quiz.php "Bootstrap 5 Quizzes")
+
+###  Data Analytics 
+
+[ DSA ](/dsa/dsa_exercises.php "DSA Exercises") [ Exercise ](/dsa/dsa_exercises.php "DSA Exercises") [ Quiz ](/dsa/dsa_quiz.php "DSA Quizzes")
+
+[ NumPy ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Exercise ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Quiz ](/python/numpy/numpy_quiz.asp "NumPy Quizzes")
+
+[ Pandas ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Exercise ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Quiz ](/python/pandas/pandas_quiz.asp "Pandas Quizzes")
+
+[ SciPy ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Exercise ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Quiz ](/python/scipy/scipy_quiz.php "SciPy Quizzes")
+
+[ Excel ](/excel/excel_exercises.php "Excel Exercises") [ Exercise ](/excel/excel_exercises.php "Excel Exercises")
+
+[ What is an Exercise? ](/exercises/index.php "W3Schools Exercises") [ What is a Quiz? ](/quiztest/default.asp "W3Schools Quizzes")
+
+###  JavaScript 
+
+[ JavaScript ](/js/js_exercises.asp "JavaScript Exercises") [ Exercise ](/js/js_exercises.asp "JavaScript Exercises") [ Quiz ](/js/js_quiz.asp "JavaScript Quizzes")
+
+[ React ](/react/react_exercises.asp "React Exercises") [ Exercise ](/react/react_exercises.asp "React Exercises") [ Quiz ](/react/react_quiz.asp "React Quizzes")
+
+[ jQuery ](/jquery/jquery_exercises.asp "jQuery Exercises") [ Exercise ](/jquery/jquery_exercises.asp "jQuery Exercises") [ Quiz ](/jquery/jquery_quiz.asp "jQuery Quizzes")
+
+[ Vue ](/vue/vue_exercises.php "Vue Exercises") [ Exercise ](/vue/vue_exercises.php "Vue Exercises") [ Quiz ](/vue/vue_quiz.php "Vue Quizzes")
+
+###  Backend 
+
+[ Python ](/python/python_exercises.asp "Python Exercises") [ Exercise ](/python/python_exercises.asp "Python Exercises") [ Quiz ](/python/python_quiz.asp "Python Quizzes")
+
+[ SQL ](/sql/sql_exercises.asp "SQL Exercises") [ Exercise ](/sql/sql_exercises.asp "SQL Exercises") [ Quiz ](/sql/sql_quiz.asp "SQL Quizzes")
+
+[ MySQL ](/mysql/mysql_exercises.asp "MySQL Exercises") [ Exercise ](/mysql/mysql_exercises.asp "MySQL Exercises") [ Quiz ](/mysql/mysql_quiz.asp "MySQL Quizzes")
+
+[ PHP ](/php/php_exercises.asp "PHP Exercises") [ Exercise ](/php/php_exercises.asp "PHP Exercises") [ Quiz ](/php/php_quiz.asp "PHP Quizzes")
+
+[ Java ](/java/java_exercises.asp "Java Exercises") [ Exercise ](/java/java_exercises.asp "Java Exercises") [ Quiz ](/java/java_quiz.asp "Java Quizzes")
+
+[ C ](/c/c_exercises.php "C Exercises") [ Exercise ](/c/c_exercises.php "C Exercises") [ Quiz ](/c/c_quiz.php "C Quizzes")
+
+[ C++ ](/cpp/cpp_exercises.asp "C++ Exercises") [ Exercise ](/cpp/cpp_exercises.asp "C++ Exercises") [ Quiz ](/cpp/cpp_quiz.asp "C++ Quizzes")
+
+[ C# ](/cs/cs_exercises.php "C# Exercises") [ Exercise ](/cs/cs_exercises.php "C# Exercises") [ Quiz ](/cs/cs_quiz.php "C# Quizzes")
+
+[ R ](/r/r_exercises.asp "R Exercises") [ Exercise ](/r/r_exercises.asp "R Exercises") [ Quiz ](/r/r_quiz.asp "R Quizzes")
+
+[ Kotlin ](/kotlin/kotlin_exercises.php "Kotlin Exercises") [ Exercise ](/kotlin/kotlin_exercises.php "Kotlin Exercises") [ Quiz ](/kotlin/kotlin_quiz.php "Kotlin Quizzes")
+
+[ Django ](/django/django_exercises.php "Django Exercises") [ Exercise ](/django/django_exercises.php "Django Exercises") [ Quiz ](/django/django_quiz.php "Django Quizzes")
+
+[ Node.js ](/nodejs/nodejs_exercises.asp "Node.js Exercises") [ Exercise ](/nodejs/nodejs_exercises.asp "Node.js Exercises") [ Quiz ](/nodejs/nodejs_quiz.asp "Node.js Quizzes")
+
+[ PostgreSQL ](/postgresql/postgresql_exercises.php "PostgreSQL Exercises") [ Exercise ](/postgresql/postgresql_exercises.php "PostgreSQL Exercises") [ Quiz ](/postgresql/postgresql_quiz.php "PostgreSQL Quizzes")
+
+[ TypeScript ](/typescript/typescript_exercises.php "TypeScript Exercises") [ Exercise ](/typescript/typescript_exercises.php "TypeScript Exercises") [ Quiz ](/typescript/typescript_quiz.php "TypeScript Quizzes")
+
+[ Git ](/git/git_exercises.asp "Git Exercises") [ Exercise ](/git/git_exercises.asp "Git Exercises") [ Quiz ](/git/git_quiz.asp "Git Quizzes")
+
+[ Bash ](/bash/bash_exercises.php "Bash Exercises") [ Exercise ](/bash/bash_exercises.php "Bash Exercises") [ Quiz ](/bash/bash_quiz.php "Bash Quizzes")
+
+[ Go ](/go/go_exercises.php "Go Exercises") [ Exercise ](/go/go_exercises.php "Go Exercises")
+
+[ MongoDB ](/mongodb/mongodb_exercises.php "MongoDB Exercises") [ Exercise ](/mongodb/mongodb_exercises.php "MongoDB Exercises")
+
+###  Data Analytics 
+
+[ DSA ](/dsa/dsa_exercises.php "DSA Exercises") [ Exercise ](/dsa/dsa_exercises.php "DSA Exercises") [ Quiz ](/dsa/dsa_quiz.php "DSA Quizzes")
+
+[ NumPy ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Exercise ](/python/numpy/numpy_exercises.asp "NumPy Exercises") [ Quiz ](/python/numpy/numpy_quiz.asp "NumPy Quizzes")
+
+[ Pandas ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Exercise ](/python/pandas/pandas_exercises.asp "Pandas Exercises") [ Quiz ](/python/pandas/pandas_quiz.asp "Pandas Quizzes")
+
+[ SciPy ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Exercise ](/python/scipy/scipy_exercises.php "SciPy Exercises") [ Quiz ](/python/scipy/scipy_quiz.php "SciPy Quizzes")
+
+[ Excel ](/excel/excel_exercises.php "Excel Exercises") [ Exercise ](/excel/excel_exercises.php "Excel Exercises")
+
+[ What is an Exercise? ](/exercises/index.php "W3Schools Exercises") [ What is a Quiz? ](/quiztest/default.asp "W3Schools Quizzes")
+
+  
+
+
+×
+
+## **Certificates**
+
+Filter field for certifications 
+
+×
+
+###  HTML and CSS 
+
+[ HTML ](https://campus.w3schools.com/collections/certifications/products/html-certificate "HTML Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/html-certificate "HTML Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/html-course "Paid HTML Course")
+
+[ CSS ](https://campus.w3schools.com/collections/certifications/products/css-certificate "CSS Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/css-certificate "CSS Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/css-course "Paid CSS Course")
+
+[ Bootstrap 3 ](https://campus.w3schools.com/collections/certifications/products/bootstrap-3-certificate "Bootstrap 3 Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/bootstrap-3-certificate "Bootstrap 3 Certification Exam") [ Course ](https://campus.w3schools.com/collections/single-courses/products/bootstrap-course "Paid Bootstrap 3 Course")
+
+[ Bootstrap 4 ](https://campus.w3schools.com/collections/certifications/products/bootstrap-4-certificate "Bootstrap 4 Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/bootstrap-4-certificate "Bootstrap 4 Certification Exam") [ Course ](https://campus.w3schools.com/collections/single-courses/products/bootstrap-4-course "Paid Bootstrap 4 Course")
+
+[ Bootstrap 5 ](https://campus.w3schools.com/collections/certifications/products/bootstrap-5-certificate "Bootstrap 5 Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/bootstrap-5-certificate "Bootstrap 5 Certification Exam")
+
+###  Data Analytics 
+
+[ DSA ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certificate Exam") [ Certificate ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certificate Exam")
+
+[ Data Analytics ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course") [ Course ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course")
+
+[ NumPy ](https://campus.w3schools.com/products/numpy-certification-exam "NumPy Certification Exam") [ Certificate ](https://campus.w3schools.com/products/numpy-certification-exam "NumPy Certification Exam") [ Course ](https://campus.w3schools.com/products/numpy-course "Paid NumPy Course")
+
+[ Pandas ](https://campus.w3schools.com/products/pandas-certification-exam "Pandas Certification Exam") [ Certificate ](https://campus.w3schools.com/products/pandas-certification-exam "Pandas Certification Exam") [ Course ](https://campus.w3schools.com/products/pandas-course "Paid Pandas Course")
+
+[ Excel ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam") [ Certificate ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam")
+
+[ Social Media ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course")
+
+[ What is a Certificate? ](https://campus.w3schools.com "W3Schools Campus")
+
+###  Programs 
+
+[ Full Access  Best Value!  ](https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course "Paid Full Access Course")
+
+[ Front End ](https://campus.w3schools.com/collections/certifications/products/front-end-course "Paid Front End Course") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/front-end-course "Paid Front End Development Course")
+
+[ Web Dev. ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development "Paid Web Development Course")
+
+[ Web App ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course "Paid Web Application Course")
+
+[ Web Design ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design "Paid Web Design Course")
+
+###  JavaScript 
+
+[ JavaScript ](https://campus.w3schools.com/collections/certifications/products/javascript-certificate "JavaScript Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/javascript-certificate "JavaScript Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/javascript-course "Paid JavaScript Course")
+
+[ React ](https://campus.w3schools.com/collections/certifications/products/react-js-certificate "React.js Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/react-js-certificate "React.js Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/react-js-course "Paid React.js Course")
+
+[ jQuery ](https://campus.w3schools.com/collections/certifications/products/jquery-certificate "jQuery Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/jquery-certificate "jQuery Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/jquery-course "Paid jQuery Course")
+
+[ Vue ](https://campus.w3schools.com/products/vue-js-certification-exam "Vue Certification Exam") [ Certificate ](https://campus.w3schools.com/products/vue-js-certification-exam "Vue Certification Exam")
+
+###  Programs 
+
+[ Full Access  Best Value!  ](https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course "Paid Full Access Course")
+
+[ Front End ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/front-end-course "Paid Front End Development Course")
+
+[ Web Dev. ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development "Paid Web Development Course")
+
+[ Web App ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course "Paid Web Application Course")
+
+[ Web Design ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design "Paid Web Design Course")
+
+###  Programs 
+
+[ Full Access  Best Value!  ](https://campus.w3schools.com/collections/course-catalog/products/w3schools-full-access-course "Paid Full Access Course")
+
+[ Front End ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/front-end-certificate "Front End Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/front-end-course "Paid Front End Development Course")
+
+[ Web Dev. ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/modern-web-development-certification "Web Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-modern-web-development "Paid Web Development Course")
+
+[ Web App ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-application-development-certificates "Web Application Development Certification") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/web-application-development-course "Paid Web Application Course")
+
+[ Web Design ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/web-design-certification "Web Design Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/learn-web-design "Paid Web Design Course")
+
+  
+
+
+###  Backend 
+
+[ Python ](https://campus.w3schools.com/collections/certifications/products/python-certificate "Python Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/python-certificate "Python Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/python-course "Paid Python Course")
+
+[ SQL ](https://campus.w3schools.com/collections/certifications/products/sql-certificate "SQL Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/sql-certificate "SQL Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/sql-course "SQL Python Course")
+
+[ MySQL ](https://campus.w3schools.com/collections/certifications/products/mysql-certificate "MySQL Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/mysql-certificate "MySQL Certification Exam")
+
+[ PHP ](https://campus.w3schools.com/collections/certifications/products/php-certificate "PHP Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/php-certificate "PHP Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/php-course "Paid PHP Course")
+
+[ Java ](https://campus.w3schools.com/collections/certifications/products/java-certificate "Java Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/java-certificate "Java Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/java-course "Paid Java Course")
+
+[ C ](https://campus.w3schools.com/products/c-certification-exam "C Certification Exam") [ Certificate ](https://campus.w3schools.com/products/c-certification-exam "C Certification Exam")
+
+[ C++ ](https://campus.w3schools.com/collections/certifications/products/c-certificate "C++ Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/c-certificate "C++ Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/c-course-1 "Paid C++ Course")
+
+[ C# ](https://campus.w3schools.com/collections/certifications/products/c-certificate-1 "C# Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/c-certificate-1 "C# Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/c-course "Paid C# Course")
+
+[ R ](https://campus.w3schools.com/collections/course-catalog/products/r-course "Paid R Course") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/r-course "Paid R Course")
+
+[ Django ](https://campus.w3schools.com/products/django-certification-exam "Django Certification Exam") [ Certificate ](https://campus.w3schools.com/products/django-certification-exam "Django Certification Exam")
+
+[ NodeJS ](https://campus.w3schools.com/products/nodejs-certificate "NodeJS Certification Exam") [ Certificate ](https://campus.w3schools.com/products/nodejs-certificate "NodeJS Certification Exam")
+
+[ TypeScript ](https://campus.w3schools.com/collections/certifications/products/typescript-certificate "TypeScript Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/typescript-certificate "TypeScript Certification Exam") [ Course ](https://campus.w3schools.com/products/learn-typescript "Paid TypeScript Course")
+
+[ XML ](https://campus.w3schools.com/collections/certifications/products/xml-certificate "XML Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/xml-certificate "XML Certification Exam") [ Course ](https://campus.w3schools.com/collections/course-catalog/products/xml-course "Paid XML Course")
+
+[ Cyber Security ](https://campus.w3schools.com/collections/certifications/products/cyber-security-certificate "Cyber Security Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/cyber-security-certificate "Cyber Security Certification Exam") [ Course ](https://campus.w3schools.com/products/cyber-security-course "Paid Cyber Security Course")
+
+[ Accessibility ](https://campus.w3schools.com/collections/certifications/products/accessibility-certificate "Accessibility Certification Exam") [ Certificate ](https://campus.w3schools.com/collections/certifications/products/accessibility-certificate "Accessibility Certification Exam") [ Course ](https://campus.w3schools.com/products/accessibility-course "Paid Accessibility Course")
+
+###  Data Analytics 
+
+[ DSA ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certification Exam") [ Exam ](https://campus.w3schools.com/products/dsa-certification-exam "DSA Certification Exam")
+
+[ Data Analytics ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course") [ Course ](https://campus.w3schools.com/products/data-analytics-program "Paid Data Analytics Course")
+
+[ NumPy ](https://campus.w3schools.com/products/numpy-course "Paid NumPy Course") [ Course ](https://campus.w3schools.com/products/numpy-course "Paid NumPy Course")
+
+[ Pandas ](https://campus.w3schools.com/products/pandas-course "Paid SciPy Course") [ Course ](https://campus.w3schools.com/products/pandas-course "Paid SciPy Course")
+
+[ Excel ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam") [ Certificate ](https://campus.w3schools.com/products/excel-certificate "Excel Certification Exam")
+
+[ Social Media ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course") [ Course ](https://campus.w3schools.com/collections/course-best-sellers/products/social-media-marketing-course "Paid Social Media Course")
+
+[ What is a Certificate? ](https://campus.w3schools.com "W3Schools Campus")
+
+  
+
+
+×
+
+## **All Our Services**
+
+Services filter input 
+
+×
+
+W3Schools offers a wide range of services and products for beginners and professionals,   
+helping millions of people everyday to learn and master new skills. 
+
+#### [Free Tutorials Enjoy our free tutorials like millions of other internet users since 1999  ](/tutorials/index.php "Tutorials")
+
+#### [References Explore our selection of references covering all popular coding languages  ](/references/index.php "References")
+
+#### [Create a Website Create your own website with **W3Schools Spaces** \- no setup required  ](/spaces/index.php "Create a Website")
+
+#### [Exercises Test your skills with different exercises ](/exercises/index.php "Test yourself with exercises")
+
+#### [Quizzes Test yourself with multiple choice questions ](/quiztest/default.asp "Test yourself with quizzes")
+
+#### [Get Certified Document your knowledge ](https://campus.w3schools.com/collections/certifications "Certificates")
+
+#### [Log in / Sign Up Create a **free** W3Schools Account to Improve Your Learning Experience  ](https://profile.w3schools.com/sign-up "Log in our Sign up")
+
+#### [My Learning Track your learning progress at W3Schools and collect rewards  ](https://profile.w3schools.com/sign-up "Track Your Progress With My Learning")
+
+#### [Upgrade Become a PLUS user and unlock powerful features (ad-free, hosting, support,..)  ](https://order.w3schools.com/plans "Upgrade subscription")
+
+#### [Where To Start Not sure where you want to start? Follow our guided path  ](/where_to_start.asp "Where To Start")
+
+#### [Code Editor (Try it) With our online code editor, you can edit code and view the result in your browser  ](/tryit/default.asp "W3Schools Code Editor")
+
+#### [Videos Learn the basics of HTML in a fun and engaging video tutorial  ](/videos/index.php "HTML Video Tutorial")
+
+#### [Templates We have created a bunch of responsive website templates you can use - for free!  ](/w3css/w3css_templates.asp "Free Web Templates")
+
+#### [Web Hosting Host your own website, and share it to the world with **W3Schools Spaces** ](/spaces/index.php "Web Hosting with Spaces")
+
+#### [Create a Server Create your own server using Python, PHP, React.js, Node.js, Java, C#, etc.  ](/spaces/index.php "Get your own server")
+
+#### [How To's Large collection of code snippets for HTML, CSS and JavaScript  ](/howto/default.asp "How To Collection")
+
+#### [CSS Framework Build fast and responsive sites using our free **W3.CSS** framework  ](/w3css/default.asp "W3.CSS Framework")
+
+#### [Browser Statistics Read long term trends of browser usage ](/browsers/default.asp "Browser Statistics")
+
+#### [Typing Speed Test your typing speed ](/typingspeed/default.asp "Test Your Typing speed")
+
+#### [Color Picker Use our color picker to find different RGB, HEX and HSL colors. ![A circular color wheel showing the gradation of colors in the spectrum](/images/colorpicker2000.png) ](/colors/colors_picker.asp "Color Picker")
+
+#### [Code Game W3Schools Coding Game! Help the lynx collect pine cones ![Lynx logo](/signup/lynxlogo.svg) ](/codegame/index.html "Coding Game")
+
+#### [Newsletter Join our newsletter and get access to exclusive content every month  ](https://campus.w3schools.com/pages/newsletter "Join Our Newsletter")
+
+#### [For Teachers Contact us about W3Schools Academy for educational institutions  ](/academy/index.php "W3Schools Academy / Classroom")
+
+#### [For Businesses Contact us about W3Schools Academy for your organization  ](/academy/index.php "W3Schools Academy / Classroom")
+
+#### Contact Us
+
+About sales: sales@w3schools.com   
+About errors: help@w3schools.com
+
+#### [Emojis Reference Check out our refererence page with all the emojis supported in HTML 😊 ](/charsets/ref_emoji_intro.asp "Emojis Reference")
+
+#### [UTF-8 Reference Check out our full UTF-8 Character reference ](/charsets/default.asp "UTF-8 Reference")
+
+[ __](https://www.youtube.com/@w3schools "W3Schools on YouTube") [ __ ](https://www.linkedin.com/company/w3schools.com/ "W3Schools on LinkedIn") [ __ ](https://discord.com/invite/w3schools "Join the W3schools community on Discord") [ __ ](https://www.facebook.com/w3schoolscom/ "W3Schools on Facebook") [ __ ](https://www.instagram.com/w3schools.com_official/ "W3Schools on Instagram")
+
+×
+
+❮ 
+
+❯ 
+
+[](javascript:void\(0\); "Menu")
+
+[HTML](/html/default.asp "HTML Tutorial") [CSS](/css/default.asp "CSS Tutorial") [JAVASCRIPT](/js/default.asp "JavaScript Tutorial") [SQL](/sql/default.asp "SQL Tutorial") [PYTHON](/python/default.asp "Python Tutorial") [JAVA](/java/default.asp "Java Tutorial") [PHP](/php/default.asp "PHP Tutorial") [HOW TO](/howto/default.asp "How to") [W3.CSS](/w3css/default.asp "W3.CSS Tutorial") [C](/c/index.php "C Tutorial") [C++](/cpp/default.asp "C++ Tutorial") [C#](/cs/index.php "C# Tutorial") [BOOTSTRAP](/bootstrap/bootstrap_ver.asp "Bootstrap Tutorial") [REACT](/react/default.asp "React Tutorial") [MYSQL](/mysql/default.asp "MySQL Tutorial") [JQUERY](/jquery/default.asp "JQuery Tutorial") [EXCEL](/excel/index.php "Excel Tutorial") [XML](/xml/default.asp "XML Tutorial") [DJANGO](/django/index.php "Django Tutorial") [NUMPY](/python/numpy/default.asp "NumPy Tutorial") [PANDAS](/python/pandas/default.asp "Pandas Tutorial") [NODEJS](/nodejs/default.asp "Node.js Tutorial") [DSA](/dsa/index.php "DSA Tutorial") [TYPESCRIPT](/typescript/index.php "TypeScript Tutorial") [ANGULAR](/angular/default.asp "Angular.js Tutorial") [GIT](/git/default.asp "Git Tutorial") [POSTGRESQL](/postgresql/index.php "PostgreSQL Tutorial") [MONGODB](/mongodb/index.php "MongoDB Tutorial") [ASP](/asp/default.asp "ASP Tutorial") [AI](/ai/default.asp "A.I. Tutorial") [R](/r/default.asp "R Tutorial") [GO](/go/index.php "Go Tutorial") [KOTLIN](/kotlin/index.php "Kotlin Tutorial") [SASS](/sass/default.php "Sass Tutorial") [VUE](/vue/index.php "Vue.js Tutorial") [GEN AI](/gen_ai/index.php "Gen A.I. Tutorial") [SCIPY](/python/scipy/index.php "SciPy Tutorial") [CYBERSECURITY](/cybersecurity/index.php "Cyber security Tutorial") [DATA SCIENCE](/datascience/default.asp "Data science Tutorial") [INTRO TO PROGRAMMING](/programming/index.php "Introduction to Programming") [BASH](/bash/index.php "Bash Tutorial") [RUST](/rust/index.php "Rust Tutorial") [](javascript:void\(0\))
+
+## Python Tutorial
+
+[Python HOME](default.asp) [Python Intro](python_intro.asp) [Python Get Started](python_getstarted.asp) [Python Syntax](python_syntax.asp) [Python Comments](python_comments.asp) [Python Variables](python_variables.asp)
+
+[Python Variables](python_variables.asp) [Variable Names](python_variables_names.asp) [Assign Multiple Values](python_variables_multiple.asp) [Output Variables](python_variables_output.asp) [Global Variables](python_variables_global.asp) [Variable Exercises](python_variables_exercises.asp)
+
+[Python Data Types](python_datatypes.asp) [Python Numbers](python_numbers.asp) [Python Casting](python_casting.asp) [Python Strings](python_strings.asp)
+
+[Python Strings](python_strings.asp) [Slicing Strings](python_strings_slicing.asp) [Modify Strings](python_strings_modify.asp) [Concatenate Strings](python_strings_concatenate.asp) [Format Strings](python_strings_format.asp) [Escape Characters](python_strings_escape.asp) [String Methods](python_strings_methods.asp) [String Exercises](python_strings_exercises.asp)
+
+[Python Booleans](python_booleans.asp) [Python Operators](python_operators.asp) [Python Lists](python_lists.asp)
+
+[Python Lists](python_lists.asp) [Access List Items](python_lists_access.asp) [Change List Items](python_lists_change.asp) [Add List Items](python_lists_add.asp) [Remove List Items](python_lists_remove.asp) [Loop Lists](python_lists_loop.asp) [List Comprehension](python_lists_comprehension.asp) [Sort Lists](python_lists_sort.asp) [Copy Lists](python_lists_copy.asp) [Join Lists](python_lists_join.asp) [List Methods](python_lists_methods.asp) [List Exercises](python_lists_exercises.asp)
+
+[Python Tuples](python_tuples.asp)
+
+[Python Tuples](python_tuples.asp) [Access Tuples](python_tuples_access.asp) [Update Tuples](python_tuples_update.asp) [Unpack Tuples](python_tuples_unpack.asp) [Loop Tuples](python_tuples_loop.asp) [Join Tuples](python_tuples_join.asp) [Tuple Methods](python_tuples_methods.asp) [Tuple Exercises](python_tuples_exercises.asp)
+
+[Python Sets](python_sets.asp)
+
+[Python Sets](python_sets.asp) [Access Set Items](python_sets_access.asp) [Add Set Items](python_sets_add.asp) [Remove Set Items](python_sets_remove.asp) [Loop Sets](python_sets_loop.asp) [Join Sets](python_sets_join.asp) [Set Methods](python_sets_methods.asp) [Set Exercises](python_sets_exercises.asp)
+
+[Python Dictionaries](python_dictionaries.asp)
+
+[Python Dictionaries](python_dictionaries.asp) [Access Items](python_dictionaries_access.asp) [Change Items](python_dictionaries_change.asp) [Add Items](python_dictionaries_add.asp) [Remove Items](python_dictionaries_remove.asp) [Loop Dictionaries](python_dictionaries_loop.asp) [Copy Dictionaries](python_dictionaries_copy.asp) [Nested Dictionaries](python_dictionaries_nested.asp) [Dictionary Methods](python_dictionaries_methods.asp) [Dictionary Exercises](python_dictionaries_exercises.asp)
+
+[Python If...Else](python_conditions.asp) [Python Match](python_match.asp) [Python While Loops](python_while_loops.asp) [Python For Loops](python_for_loops.asp) [Python Functions](python_functions.asp) [Python Lambda](python_lambda.asp) [Python Arrays](python_arrays.asp) [Python OOP](python_oop.asp) [Python Classes/Objects](python_classes.asp) [Python Inheritance](python_inheritance.asp) [Python Iterators](python_iterators.asp) [Python Polymorphism](python_polymorphism.asp) [Python Scope](python_scope.asp) [Python Modules](python_modules.asp) [Python Dates](python_datetime.asp) [Python Math](python_math.asp) [Python JSON](python_json.asp) [Python RegEx](python_regex.asp) [Python PIP](python_pip.asp) [Python Try...Except](python_try_except.asp) [Python String Formatting](python_string_formatting.asp) [Python User Input](python_user_input.asp) [Python VirtualEnv](python_virtualenv.asp)   
+
+
+## File Handling
+
+[Python File Handling](python_file_handling.asp) [Python Read Files](python_file_open.asp) [Python Write/Create Files](python_file_write.asp) [Python Delete Files](python_file_remove.asp)   
+
+
+## Python Modules
+
+[NumPy Tutorial](numpy/default.asp) [Pandas Tutorial](pandas/default.asp) [SciPy Tutorial](scipy/index.php) [Django Tutorial](/django/index.php)   
+
+
+## Python Matplotlib
+
+[Matplotlib Intro](matplotlib_intro.asp) [Matplotlib Get Started](matplotlib_getting_started.asp) [Matplotlib Pyplot](matplotlib_pyplot.asp) [Matplotlib Plotting](matplotlib_plotting.asp) [Matplotlib Markers](matplotlib_markers.asp) [Matplotlib Line](matplotlib_line.asp) [Matplotlib Labels](matplotlib_labels.asp) [Matplotlib Grid](matplotlib_grid.asp) [Matplotlib Subplot](matplotlib_subplot.asp) [Matplotlib Scatter](matplotlib_scatter.asp) [Matplotlib Bars](matplotlib_bars.asp) [Matplotlib Histograms](matplotlib_histograms.asp) [Matplotlib Pie Charts](matplotlib_pie_charts.asp)   
+
+
+## Machine Learning
+
+[Getting Started](python_ml_getting_started.asp) [Mean Median Mode](python_ml_mean_median_mode.asp) [Standard Deviation](python_ml_standard_deviation.asp) [Percentile](python_ml_percentile.asp) [Data Distribution](python_ml_data_distribution.asp) [Normal Data Distribution](python_ml_normal_data_distribution.asp) [Scatter Plot](python_ml_scatterplot.asp) [Linear Regression](python_ml_linear_regression.asp) [Polynomial Regression](python_ml_polynomial_regression.asp) [Multiple Regression](python_ml_multiple_regression.asp) [Scale](python_ml_scale.asp) [Train/Test](python_ml_train_test.asp) [Decision Tree](python_ml_decision_tree.asp) [Confusion Matrix](python_ml_confusion_matrix.asp) [Hierarchical Clustering](python_ml_hierarchial_clustering.asp) [Logistic Regression](python_ml_logistic_regression.asp) [Grid Search](python_ml_grid_search.asp) [Categorical Data](python_ml_preprocessing.asp) [K-means](python_ml_k-means.asp) [Bootstrap Aggregation](python_ml_bagging.asp) [Cross Validation](python_ml_cross_validation.asp) [AUC - ROC Curve](python_ml_auc_roc.asp) [K-nearest neighbors](python_ml_knn.asp)   
+
+
+## Python DSA
+
+[Python DSA](python_dsa.asp) [Lists and Arrays](python_dsa_lists.asp) [Stacks](python_dsa_stacks.asp) [Queues](python_dsa_queues.asp) [Linked Lists](python_dsa_linkedlists.asp) [Hash Tables](python_dsa_hashtables.asp) [Trees](python_dsa_trees.asp) [Binary Trees](python_dsa_binarytrees.asp) [Binary Search Trees](python_dsa_binarysearchtrees.asp) [AVL Trees](python_dsa_avltrees.asp) [Graphs](python_dsa_graphs.asp) [Linear Search](python_dsa_linearsearch.asp) [Binary Search](python_dsa_binarysearch.asp) [Bubble Sort](python_dsa_bubblesort.asp) [Selection Sort](python_dsa_selectionsort.asp) [Insertion Sort](python_dsa_insertionsort.asp) [Quick Sort](python_dsa_quicksort.asp) [Counting Sort](python_dsa_countingsort.asp) [Radix Sort](python_dsa_radixsort.asp) [Merge Sort](python_dsa_mergesort.asp)   
+
+
+## Python MySQL
+
+[MySQL Get Started](python_mysql_getstarted.asp) [MySQL Create Database](python_mysql_create_db.asp) [MySQL Create Table](python_mysql_create_table.asp) [MySQL Insert](python_mysql_insert.asp) [MySQL Select](python_mysql_select.asp) [MySQL Where](python_mysql_where.asp) [MySQL Order By](python_mysql_orderby.asp) [MySQL Delete](python_mysql_delete.asp) [MySQL Drop Table](python_mysql_drop_table.asp) [MySQL Update](python_mysql_update.asp) [MySQL Limit](python_mysql_limit.asp) [MySQL Join](python_mysql_join.asp)   
+
+
+## Python MongoDB
+
+[MongoDB Get Started](python_mongodb_getstarted.asp) [MongoDB Create DB](python_mongodb_create_db.asp) [MongoDB Collection](python_mongodb_create_collection.asp) [MongoDB Insert](python_mongodb_insert.asp) [MongoDB Find](python_mongodb_find.asp) [MongoDB Query](python_mongodb_query.asp) [MongoDB Sort](python_mongodb_sort.asp) [MongoDB Delete](python_mongodb_delete.asp) [MongoDB Drop Collection](python_mongodb_drop_collection.asp) [MongoDB Update](python_mongodb_update.asp) [MongoDB Limit](python_mongodb_limit.asp)   
+
+
+## Python Reference
+
+[Python Overview](python_reference.asp) [Python Built-in Functions](python_ref_functions.asp) [Python String Methods](python_ref_string.asp) [Python List Methods](python_ref_list.asp) [Python Dictionary Methods](python_ref_dictionary.asp) [Python Tuple Methods](python_ref_tuple.asp) [Python Set Methods](python_ref_set.asp) [Python File Methods](python_ref_file.asp) [Python Keywords](python_ref_keywords.asp) [Python Exceptions](python_ref_exceptions.asp) [Python Glossary](python_ref_glossary.asp)   
+
+
+## Module Reference
+
+[Random Module](module_random.asp) [Requests Module](module_requests.asp) [Statistics Module](module_statistics.asp) [Math Module](module_math.asp) [cMath Module](module_cmath.asp)   
+
+
+## Python How To
+
+[Remove List Duplicates](python_howto_remove_duplicates.asp) [Reverse a String](python_howto_reverse_string.asp) [Add Two Numbers](python_howto_add_two_numbers.asp)   
+
+
+## Python Examples
+
+[Python Examples](python_examples.asp) [Python Compiler](python_compiler.asp) [Python Exercises](python_exercises.asp) [Python Quiz](python_quiz.asp) [Python Server](python_server.asp) [Python Syllabus](python_syllabus.asp) [Python Study Plan](python_study_plan.asp) [Python Interview Q&A](python_interview_questions.asp) [Python Bootcamp](python_bootcamp.asp) [Python Certificate](python_exam.asp) [Python Training](python_training.asp)   
+  
+
+
+# Python Tutorial
+
+[❮ Home](/default.asp) [Next ❯](python_intro.asp)
+
+## Learn Python
+
+Python is a popular programming language.
+
+Python can be used on a server to create web applications.
+
+[Start learning Python now »](python_intro.asp)
+
+[ 🏁](https://profile.w3schools.com/signup "Create a free account to track your progress")
+
+**Tip:** [Sign in](https://profile.w3schools.com/signup "Create a free account to track your progress and earn XP") to track your progress - it's free.
+
+* * *
+
+## Learning by Examples
+
+With our "Try it Yourself" editor, you can edit Python code and view the result.
+
+### Example
+
+print("Hello, World!") 
+
+[Try it Yourself »](trypython.asp?filename=demo_default)
+
+**Click on the "Try it Yourself" button to see how it works.**
+
+* * *
+
+## Python File Handling
+
+In our File Handling section you will learn how to open, read, write, and delete files.
+
+[Python File Handling](python_file_handling.asp)
+
+* * *
+
+## Python Database Handling
+
+In our database section you will learn how to access and work with MySQL and MongoDB databases:
+
+[Python MySQL Tutorial](python_mysql_getstarted.asp)
+
+[Python MongoDB Tutorial](python_mongodb_getstarted.asp)
+
+* * *
+
+## Python Exercises
+
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+
+[See all Python Exercises](python_exercises.asp)
+
+* * *
+
+* * *
+
+## Python Examples
+
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+
+[See All Python Examples](python_examples.asp)
+
+* * *
+
+## Python Quiz
+
+Test your Python skills with a quiz.
+
+[Python Quiz](python_quiz.asp)
+
+* * *
+
+## Track Your Progress
+
+###### Create a free W3Schools account and get access to more features and learning materials:
+
+  
+
+
+  * ![Checkmark](/spaces/files/check3.db67d31e.svg)View your completed tutorials, exercises, and quizzes
+  * ![Checkmark](/spaces/files/check3.db67d31e.svg)Keep an eye on your progress and daily streaks
+  * ![Checkmark](/spaces/files/check3.db67d31e.svg)Set goals and create learning paths
+  * ![Checkmark](/spaces/files/check3.db67d31e.svg)Create your own personal website
+
+
+
+[Sign Up for Free](https://profile.w3schools.com/sign-up "Sign up to try My Learning")
+
+**Note:** This is an optional feature. You can study at W3Schools without creating an account.
+
+* * *
+
+## Python Reference
+
+You will also find complete function and method references:
+
+[Reference Overview](python_reference.asp)
+
+[Built-in Functions](python_ref_functions.asp)
+
+[String Methods](python_ref_string.asp)
+
+[List/Array Methods](python_ref_list.asp)
+
+[Dictionary Methods](python_ref_dictionary.asp)
+
+[Tuple Methods](python_ref_tuple.asp)
+
+[Set Methods](python_ref_set.asp)
+
+[File Methods](python_ref_file.asp)
+
+[Python Keywords](python_ref_keywords.asp)
+
+[Python Exceptions](python_ref_exceptions.asp)
+
+[Python Glossary](python_ref_glossary.asp)
+
+[Random Module](module_random.asp)
+
+[Requests Module](module_requests.asp)
+
+[Math Module](module_math.asp)
+
+[CMath Module](module_cmath.asp)
+
+* * *
+
+## Download Python
+
+Download Python from the official Python web site: [https://python.org](https://python.org/)
+
+  
+
+
+## Kickstart your career
+
+Get certified by completing the course
+
+[Get certified](https://campus.w3schools.com/collections/course-catalog) w3schools CERTIFIED . 2025
+
+[❮ Home](/default.asp) [Next ❯](python_intro.asp)
+
+[ ★ +1 ](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
+
+Track your progress - it's free!
+
+[ Log in ](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com "Login to your account") [ Sign Up ](https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com "Sign Up to Improve Your Learning Experience")
+
+[ ![Get Certified](/images/img_fa_up_300.png) ](https://campus.w3schools.com/products/w3schools-full-access-course)
+
+#### [COLOR PICKER](/colors/colors_picker.asp)
+
+[ ![colorpicker](/images/colorpicker2000.png) ](/colors/colors_picker.asp)
+
+[](https://www.youtube.com/@w3schools "W3Schools on YouTube") [](https://www.linkedin.com/company/w3schools.com/ "W3Schools on LinkedIn") [](https://discord.com/invite/w3schools "Join the W3schools community on Discord") [](https://www.facebook.com/w3schoolscom/ "W3Schools on Facebook") [](https://www.instagram.com/w3schools.com_official/ "W3Schools on Instagram") [](https://www.tiktok.com/@w3schools.com "New: W3Schools on TikTok")
+
+* * *
+
+[ __](//www.w3schools.com)
+
+[PLUS](/plus/index.php "Become a PLUS user and unlock powerful features")
+
+[SPACES](/spaces/index.php "Get your own website with W3Schools Spaces")
+
+[GET CERTIFIED](https://campus.w3schools.com/collections/certifications "Document your knowledge by getting certified")
+
+[FOR TEACHERS](/academy/index.php "Contact us about W3Schools Academy for educational institutions")
+
+[FOR BUSINESS](/academy/index.php)
+
+[CONTACT US](javascript:void\(0\); "Contact us about sales or errors")
+
+×
+
+## Contact Sales
+
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:  
+sales@w3schools.com
+
+## Report Error
+
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:  
+help@w3schools.com
+
+##### Top Tutorials
+
+[HTML Tutorial](/html/default.asp)  
+[CSS Tutorial](/css/default.asp)  
+[JavaScript Tutorial](/js/default.asp)  
+[How To Tutorial](/howto/default.asp)  
+[SQL Tutorial](/sql/default.asp)  
+[Python Tutorial](/python/default.asp)  
+[W3.CSS Tutorial](/w3css/default.asp)  
+[Bootstrap Tutorial](/bootstrap/bootstrap_ver.asp)  
+[PHP Tutorial](/php/default.asp)  
+[Java Tutorial](/java/default.asp)  
+[C++ Tutorial](/cpp/default.asp)  
+[jQuery Tutorial](/jquery/default.asp)  
+
+
+##### Top References
+
+[HTML Reference](/tags/default.asp)  
+[CSS Reference](/cssref/index.php)  
+[JavaScript Reference](/jsref/default.asp)  
+[SQL Reference](/sql/sql_ref_keywords.asp)  
+[Python Reference](/python/python_reference.asp)  
+[W3.CSS Reference](/w3css/w3css_references.asp)  
+[Bootstrap Reference](/bootstrap/bootstrap_ref_all_classes.asp)  
+[PHP Reference](/php/php_ref_overview.asp)  
+[HTML Colors](/colors/colors_names.asp)  
+[Java Reference](/java/java_ref_keywords.asp)  
+[Angular Reference](/angular/angular_ref_directives.asp)  
+[jQuery Reference](/jquery/jquery_ref_overview.asp)  
+
+
+##### Top Examples
+
+[HTML Examples](/html/html_examples.asp)  
+[CSS Examples](/css/css_examples.asp)  
+[JavaScript Examples](/js/js_examples.asp)  
+[How To Examples](/howto/default.asp)  
+[SQL Examples](/sql/sql_examples.asp)  
+[Python Examples](/python/python_examples.asp)  
+[W3.CSS Examples](/w3css/w3css_examples.asp)  
+[Bootstrap Examples](/bootstrap/bootstrap_examples.asp)  
+[PHP Examples](/php/php_examples.asp)  
+[Java Examples](/java/java_examples.asp)  
+[XML Examples](/xml/xml_examples.asp)  
+[jQuery Examples](/jquery/jquery_examples.asp)  
+
+
+##### [Get Certified](https://campus.w3schools.com/collections/course-catalog) [HTML Certificate](https://campus.w3schools.com/collections/certifications/products/html-certificate)  
+[CSS Certificate](https://campus.w3schools.com/collections/certifications/products/css-certificate)  
+[JavaScript Certificate](https://campus.w3schools.com/collections/certifications/products/javascript-certificate)  
+[Front End Certificate](https://campus.w3schools.com/collections/certifications/products/front-end-certificate)  
+[SQL Certificate](https://campus.w3schools.com/collections/certifications/products/sql-certificate)  
+[Python Certificate](https://campus.w3schools.com/collections/certifications/products/python-certificate)  
+[PHP Certificate](https://campus.w3schools.com/collections/certifications/products/php-certificate)  
+[jQuery Certificate](https://campus.w3schools.com/collections/certifications/products/jquery-certificate)  
+[Java Certificate](https://campus.w3schools.com/collections/certifications/products/java-certificate)  
+[C++ Certificate](https://campus.w3schools.com/collections/certifications/products/c-certificate)  
+[C# Certificate](https://campus.w3schools.com/collections/certifications/products/c-certificate-1)  
+[XML Certificate](https://campus.w3schools.com/collections/certifications/products/xml-certificate)  
+
+
+[__](https://www.youtube.com/@w3schools "W3Schools on YouTube")[__](https://www.linkedin.com/company/w3schools.com/ "W3Schools on LinkedIn") [__](https://discord.com/invite/w3schools "Join the W3schools community on Discord") [__](https://www.facebook.com/w3schoolscom/ "W3Schools on Facebook") [__](https://www.instagram.com/w3schools.com_official/ "W3Schools on Instagram")
+
+[FORUM](/forum/default.asp "Forum") [ABOUT](/about/default.asp "About W3Schools") [ACADEMY](/academy/index.php "Contact us about W3Schools Academy for educational institutions and organizations")
+
+W3Schools is optimized for learning and training. Examples might be simplified to improve reading and learning.  
+Tutorials, references, and examples are constantly reviewed to avoid errors, but we cannot warrant full correctness  
+of all content. While using W3Schools, you agree to have read and accepted our [terms of use](/about/about_copyright.asp), [cookie and privacy policy](/about/about_privacy.asp).  
+  
+[Copyright 1999-2025](/about/about_copyright.asp) by Refsnes Data. All Rights Reserved. [W3Schools is Powered by W3.CSS](//www.w3schools.com/w3css/default.asp).  
+  
+
